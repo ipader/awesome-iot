@@ -84,7 +84,7 @@ Marvell 推出 Kinoma Create 物联网开发套件 专案设计带着走](http:/
 * [Sprite 无人机](http://www.ifanr.com/524707)：“蜻蜓式”驴友无人机。通过可佩戴的追踪器返回。
 * [Zano 无人机](http://www.ifanr.com/472892)：最小的拍照无人机。
 * [比GPS更准，新型无人机导航系统问世](http://www.leiphone.com/news/201505/fJxLEvFRqAGarWsV.html)：通过预制卫星地图及视觉识别技术。
-* 
+ 
 ### 行业动态
 * [Google 正在开发物联网系统 Brillo](http://www.ifanr.com/523481)
 * [富士康布局传感器](http://36kr.com/p/533169.html)
