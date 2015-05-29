@@ -60,13 +60,18 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 * [Particle](https://www.particle.io/dev)
 	* [Gettting Started](http://docs.particle.io/photon/start/)
 
+### 创客社区
+* [@SeeedStudio](http://weibo.com/seeedstudio)
+* [@DFRobot](http://weibo.com/dfrobot)
+* [@Espruino中文社区](http://weibo.com/p/1006065034520011)
+
+
 ### 硬件零售
 * [SparkFun](https://www.sparkfun.com/)
 	* [淘宝代理：奥松机器人](http://robotbase.taobao.com/)
 * [seeedstudio](http://www.seeedstudio.com/)
 	* [天猫](http://xidikaiyuanshuma.tmall.com/)：零售自己设计开发板
 	* [淘宝](http://seeed-studio.taobao.com/)：代理主流开源硬件
-	* [微博：@SeeedStudio](http://weibo.com/seeedstudio)
 	* [专访 Seeed Studio：开源硬件的创新种子](http://www.ifanr.com/136507)
 	* [Seeedstudio：硬件电商](http://www.bundpic.com/2013/07/22790.shtml)
 
