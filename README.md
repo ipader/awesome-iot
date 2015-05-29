@@ -42,7 +42,8 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
   * [ARM Cortex-M0（MCU）](http://www.arm.com/zh/products/processors/cortex-m/cortex-m0.php) + 蓝牙。
   * [相较于智能手环和手表，它要迷你得多](http://mt.sohu.com/20150522/n413532308.shtml)
   * [动手制作属于自己的可穿戴设备](http://www.cnbeta.com/articles/291331.htm)
-
+* [NodeMCU](http://www.nodemcu.com/index_cn.html)：基于 Lua 语言开发板
+	* [firmware](https://github.com/nodemcu/nodemcu-firmware)
 
 ### 编程环境
 * [NodeJs](http://nodejs.org)
@@ -59,9 +60,13 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 * [Particle](https://www.particle.io/dev)
 	* [Gettting Started](http://docs.particle.io/photon/start/)
 
-### 硬件销售
+### 硬件零售
+* [SparkFun](https://www.sparkfun.com/)
+	* [淘宝代理：奥松机器人](http://robotbase.taobao.com/)
 * [seeedstudio](http://www.seeedstudio.com/)
-	* [天猫](http://xidikaiyuanshuma.tmall.com/) 
+	* [天猫](http://xidikaiyuanshuma.tmall.com/)：零售自己设计开发板
+	* [淘宝](http://seeed-studio.taobao.com/)：代理主流开源硬件
+	* [微博：@SeeedStudio](http://weibo.com/seeedstudio)
 	* [专访 Seeed Studio：开源硬件的创新种子](http://www.ifanr.com/136507)
 	* [Seeedstudio：硬件电商](http://www.bundpic.com/2013/07/22790.shtml)
 
