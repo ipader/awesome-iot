@@ -70,7 +70,15 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 	* [专访 Seeed Studio：开源硬件的创新种子](http://www.ifanr.com/136507)
 	* [Seeedstudio：硬件电商](http://www.bundpic.com/2013/07/22790.shtml)
 
-### 智能桌
+### 智能家居
+#### 1. 集成商
+* [小米](home.mi.com/)
+* [奇酷](http://www.qikoo.com/)
+* [中兴](http://www.ztehome.com.cn/)
+	* [小兴看看](http://www.ztehome.com.cn/index.php/home/14-camera/20-xiaoxinkankan)
+
+
+#### 2. 智能桌
 * Stir M1 (奢侈级，$2999)
   * [详细介绍及参数](http://www.stirworks.com/stir-kinetic-desk-m1/)
   * [媒体报道：更轻巧，更贴心，更便宜](http://www.7huoxing.com/?p=7709)
@@ -90,14 +98,10 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
   * [脑洞大开的桌子](http://www.ifanr.com/520408)：宜家厨房桌、办公桌（Stir, Autonomous）等介绍及视频
   * [智能会议桌：捕捉谈话人员声音告别会议记录]( http://tech.sina.com.cn/q/tech/2015-05-14/doc-icpkqeaz4162345.shtml)
 
-### 智能家居
-* [小米](home.mi.com/)
-* [奇酷](http://www.qikoo.com/)
-* [中兴](http://www.ztehome.com.cn/)
-	* [小兴看看](http://www.ztehome.com.cn/index.php/home/14-camera/20-xiaoxinkankan)
-* 智能锁－Noki
-  * [kickstarter](https://www.kickstarter.com/projects/1227497591/noki-the-smart-doorlock-for-europe)
-  * [你还在担心门没锁？](http://www.leiphone.com/news/201505/VjV2wiuDFrGJxcIe.html)
+#### 3. 智能锁
+  * [Noki：kickstarter](https://www.kickstarter.com/projects/1227497591/noki-the-smart-doorlock-for-europe)
+  * [Noki：你还在担心门没锁？](http://www.leiphone.com/news/201505/VjV2wiuDFrGJxcIe.html)
+
 
 ### 无人机
 * [Lily 无人机](http://36kr.com/p/532831.html)：“傻瓜式”自拍无人机。通过GPS返回。
