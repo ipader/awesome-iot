@@ -20,7 +20,11 @@ Marvell 推出 Kinoma Create 物联网开发套件 专案设计带着走](http:/
 * [Particle](https://www.particle.io/) 
 	* [Gettting Started](http://docs.particle.io/photon/start/)
 	* [让 Arduino 便捷联网的模块 Spark](http://cn.technode.com/post/2013-09-26/haxlr8r-spark/)
+* [Tessel](https://tessel.io/)：基于 Linux + NodeJs 的硬件开发平台
+	* [GitHub：tessel](https://github.com/tessel/project) 
 * Google
+	* [【I/O 2015】Google 的物联网平台来了！叫 Brillo](http://www.ifanr.com/news/526455)：
+Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬件的操作系统。通讯协议 Weave。 
 	* [谷歌正开发物联网安卓版本 欲统一智能家居](http://tech.qq.com/a/20150522/009319.htm)
 	* [Brillo：Google的物联网野心](http://jandan.net/2015/05/27/hello-brillo.html)
 * [微软](https://www.microsoft.com/windowsembedded/zh-cn/internet-of-things.aspx)
