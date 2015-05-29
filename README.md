@@ -1,15 +1,6 @@
 ## IoT 笔记
 
 ### 开发平台
-* [Marvell](http://www.marvell.com.cn/)
-	* [Kinoma Create](http://kinoma.com/create/about/) ：物联网开发工具包
-	* 相关报道：
-		* [
-Marvell 推出 Kinoma Create 物联网开发套件 专案设计带着走](http://technews.cn/2014/10/29/marvell-kinoma-create/) 
-		* [Marvell 开源 KinomaJS 应用框架，加速物联网行业成长](http://www.marvell.com.cn/company/news/pressDetail.do?releaseID=6223) 
-		* [Marvell IoT平台在业界率先为硬件制造商提供全面HomeKit支持](http://www.marvell.com.cn/company/news/pressDetail.do?releaseID=6296) 
-		* [Marvell 推出业界领先的ZigBee无线微控制器SoC，促进智能家居和IoT创新](http://	www.marvell.com.cn/company/news/pressDetail.do?releaseID=6438)
-		* [Marvell 一流端到端物联网平台助力小米推出最新智能家居产品](http://www.marvell.com.cn/company/news/pressDetail.do?releaseID=6224)
 * [Arduino](http://www.arduino.cc/)
 	* [Products](http://www.arduino.cc/en/Main/Products)
 	* [NodeJs on Arduino Yun](http://www.appsaloon.be/blog/node-js-arduino-yun/)
@@ -24,6 +15,15 @@ Marvell 推出 Kinoma Create 物联网开发套件 专案设计带着走](http:/
 	* [GitHub：tessel](https://github.com/tessel/project) 
 * [Espruino](http://www.espruino.com/)：首个 JavaScript 微处理器
 	* [购买](http://item.taobao.com/item.htm?spm=a230r.1.14.1.YSdV7Y&id=43421292301&ns=1&abbucket=3#detail)
+* [Marvell](http://www.marvell.com.cn/)
+	* [Kinoma Create](http://kinoma.com/create/about/) ：物联网开发工具包
+	* 相关报道：
+		* [
+Marvell 推出 Kinoma Create 物联网开发套件 专案设计带着走](http://technews.cn/2014/10/29/marvell-kinoma-create/) 
+		* [Marvell 开源 KinomaJS 应用框架，加速物联网行业成长](http://www.marvell.com.cn/company/news/pressDetail.do?releaseID=6223) 
+		* [Marvell IoT平台在业界率先为硬件制造商提供全面HomeKit支持](http://www.marvell.com.cn/company/news/pressDetail.do?releaseID=6296) 
+		* [Marvell 推出业界领先的ZigBee无线微控制器SoC，促进智能家居和IoT创新](http://	www.marvell.com.cn/company/news/pressDetail.do?releaseID=6438)
+		* [Marvell 一流端到端物联网平台助力小米推出最新智能家居产品](http://www.marvell.com.cn/company/news/pressDetail.do?releaseID=6224)
 * Google
 	* [【I/O 2015】Google 的物联网平台来了！叫 Brillo](http://www.ifanr.com/news/526455)：
 Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬件的操作系统。通讯协议 Weave。 
@@ -91,11 +91,13 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
   * [智能会议桌：捕捉谈话人员声音告别会议记录]( http://tech.sina.com.cn/q/tech/2015-05-14/doc-icpkqeaz4162345.shtml)
 
 ### 智能家居
+* [小米](home.mi.com/)
+* [奇酷](http://www.qikoo.com/)
+* [中兴](http://www.ztehome.com.cn/)
+	* [小兴看看](http://www.ztehome.com.cn/index.php/home/14-camera/20-xiaoxinkankan)
 * 智能锁－Noki
   * [kickstarter](https://www.kickstarter.com/projects/1227497591/noki-the-smart-doorlock-for-europe)
   * [你还在担心门没锁？](http://www.leiphone.com/news/201505/VjV2wiuDFrGJxcIe.html)
-* [小米](home.mi.com/)
-* [奇酷](http://www.qikoo.com/)
 
 ### 无人机
 * [Lily 无人机](http://36kr.com/p/532831.html)：“傻瓜式”自拍无人机。通过GPS返回。
