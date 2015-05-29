@@ -22,6 +22,8 @@ Marvell 推出 Kinoma Create 物联网开发套件 专案设计带着走](http:/
 	* [让 Arduino 便捷联网的模块 Spark](http://cn.technode.com/post/2013-09-26/haxlr8r-spark/)
 * [Tessel](https://tessel.io/)：基于 Linux + NodeJs 的硬件开发平台
 	* [GitHub：tessel](https://github.com/tessel/project) 
+* [Espruino](http://www.espruino.com/)：首个 JavaScript 微处理器
+	* [购买](http://item.taobao.com/item.htm?spm=a230r.1.14.1.YSdV7Y&id=43421292301&ns=1&abbucket=3#detail)
 * Google
 	* [【I/O 2015】Google 的物联网平台来了！叫 Brillo](http://www.ifanr.com/news/526455)：
 Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬件的操作系统。通讯协议 Weave。 
@@ -56,6 +58,12 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 * [Kinoma Studio](http://kinoma.com/studio/)
 * [Particle](https://www.particle.io/dev)
 	* [Gettting Started](http://docs.particle.io/photon/start/)
+
+### 硬件销售
+* [seeedstudio](http://www.seeedstudio.com/)
+	* [天猫](http://xidikaiyuanshuma.tmall.com/) 
+	* [专访 Seeed Studio：开源硬件的创新种子](http://www.ifanr.com/136507)
+	* [Seeedstudio：硬件电商](http://www.bundpic.com/2013/07/22790.shtml)
 
 ### 智能桌
 * Stir M1 (奢侈级，$2999)
