@@ -81,6 +81,7 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 * [奇酷](http://www.qikoo.com/)
 * [中兴](http://www.ztehome.com.cn/)
 	* [小兴看看](http://www.ztehome.com.cn/index.php/home/14-camera/20-xiaoxinkankan)
+* [庆科](http://www.mxchip.com/)
 
 
 #### 2. 智能桌
@@ -122,3 +123,4 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 * [DIY 高性能树莓派OpenWrt无线路由器](http://www.shuyz.com/install-openwrt-on-raspberry-as-a-wireless-router.html)
 * [MicroPython：针对微控制器的Python](http://www.iteye.com/news/30549)
 * [艾拉物联张南雄：物联网想落地？还得从企业层入手](http://www.pingwest.com/ayla-networks-iot-enterprise/)
+* [Google I/O 2015 - Project Tango 手机亮相](http://www.ifanr.com/527040)
