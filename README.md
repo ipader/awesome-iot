@@ -79,7 +79,8 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 * [DFRobot](http://www.dfrobot.com.cn)：Arduino 授权经销商
 	* [商城](http://www.dfrobot.com.cn/index.php)
 * [Microduino](https://www.microduino.cc/)：Arduino 的兼容开发板
-	* [淘宝](http://microduino.taobao.com/index.htm) 
+	* [淘宝](http://microduino.taobao.com/index.htm)
+	* [可堆叠的创意 开源硬件 Microduino 开发团队专访](http://www.csdn.net/article/1970-01-01/2816170)
 
 ### 智能家居
 #### 1. 集成商
