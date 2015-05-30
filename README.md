@@ -76,6 +76,8 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 	* [淘宝](http://seeed-studio.taobao.com/)：代理主流开源硬件
 	* [专访 Seeed Studio：开源硬件的创新种子](http://www.ifanr.com/136507)
 	* [Seeedstudio：硬件电商](http://www.bundpic.com/2013/07/22790.shtml)
+* [DFRobot](http://www.dfrobot.com.cn)：Arduino 授权经销商
+	* [商城](http://www.dfrobot.com.cn/index.php)
 
 ### 智能家居
 #### 1. 集成商
