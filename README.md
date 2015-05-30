@@ -83,7 +83,7 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 
 ### 智能家居
 #### 1. 集成商
-* [小米](home.mi.com/)
+* [小米](http://home.mi.com/)
 * [奇酷](http://www.qikoo.com/)
 * [中兴](http://www.ztehome.com.cn/)
 	* [小兴看看](http://www.ztehome.com.cn/index.php/home/14-camera/20-xiaoxinkankan)
