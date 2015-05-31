@@ -59,6 +59,9 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 	* [WRTnode罗未：开放制造的机器之心](http://www.leiphone.com/news/201406/wrtnode-machine-openhardware.html)
 * [NodeMCU](http://www.nodemcu.com/index_cn.html)：基于 Lua 语言开发板
 	* [firmware](https://github.com/nodemcu/nodemcu-firmware)
+* [RoboPeak](http://www.robopeak.com/)
+	* [激光雷达RPLidar，成本仅为工业级产品的十分之一](http://36kr.com/p/211924.html)
+	* [RoboPeak 从团队到公司跨越](http://www.ifanr.com/295248)
 
 ### 编程环境
 * [NodeJs](http://nodejs.org)
