@@ -26,6 +26,9 @@ Marvell 推出 Kinoma Create 物联网开发套件 专案设计带着走](http:/
 		* [Marvell IoT平台在业界率先为硬件制造商提供全面HomeKit支持](http://www.marvell.com.cn/company/news/pressDetail.do?releaseID=6296) 
 		* [Marvell 推出业界领先的ZigBee无线微控制器SoC，促进智能家居和IoT创新](http://	www.marvell.com.cn/company/news/pressDetail.do?releaseID=6438)
 		* [Marvell 一流端到端物联网平台助力小米推出最新智能家居产品](http://www.marvell.com.cn/company/news/pressDetail.do?releaseID=6224)
+* Apple
+	* [HomeKit](https://developer.apple.com/homekit/) 
+	* [首批苹果HomeKit认证智能家居设备有望下月（2015-6）面市](http://www.forbeschina.com/review/201505/0042736.shtml)
 * Google
 	* [【I/O 2015】Google 的物联网平台来了！叫 Brillo](http://www.ifanr.com/news/526455)：
 Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬件的操作系统。通讯协议 Weave。 
@@ -34,6 +37,9 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 * [微软](https://www.microsoft.com/windowsembedded/zh-cn/internet-of-things.aspx)
 * Facebook
   * [Parse for IoT：Facebook的物联网SDK](http://www.infoq.com/cn/news/2015/03/parse-for-iot-facebook-sdk)
+* 华为
+	* [LiteOS](http://www.liteos.net/)：LiteOS 只有10KB，是目前最轻量级的物联网开源操作系统。
+	* [我们应该用什么姿势，看待华为的Liteos？](http://www.leiphone.com/news/201505/qYBPMOnaYyntp5KR.html) 
 * [腾讯物联网开放平台](http://iot.open.qq.com/)
 * [LABView](http://www.ni.com/labview/zhs/)
 	* [物联网离不开LABView嵌入式开发](http://home.eeworld.com.cn/my/space-uid-431262-blogid-74658.html) 
