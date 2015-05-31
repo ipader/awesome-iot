@@ -37,10 +37,15 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 * [微软](https://www.microsoft.com/windowsembedded/zh-cn/internet-of-things.aspx)
 * Facebook
   * [Parse for IoT：Facebook的物联网SDK](http://www.infoq.com/cn/news/2015/03/parse-for-iot-facebook-sdk)
-* 华为
-	* [LiteOS](http://www.liteos.net/)：LiteOS 只有10KB，是目前最轻量级的物联网开源操作系统。
+* [华为](http://www.oiotc.cc/)
+	* [LiteOS](http://www.oiotc.cc/index.php?m=project&a=kernel)：LiteOS 只有10KB，是目前最轻量级的物联网开源操作系统。
+	* [海思单板 poplar](http://forum.oiotc.cc/forum.php?mod=viewthread&tid=110)
+	* [解决方案：物联网（M2M）](http://www.huawei.com/cn/solutions/arpu-up/hw-083596-------------------------m2m.htm#.VWp8SJOUdd8)
+	* [
+为 IoT 建立统一标准，华为推出开源物联网操作系统 LiteOS](http://technews.cn/2015/05/30/huawei-iot-liteo/)
 	* [我们应该用什么姿势，看待华为的Liteos？](http://www.leiphone.com/news/201505/qYBPMOnaYyntp5KR.html) 
-* [腾讯物联网开放平台](http://iot.open.qq.com/)
+* 腾讯
+	* [腾讯物联网开放平台](http://iot.open.qq.com/)
 * [LABView](http://www.ni.com/labview/zhs/)
 	* [物联网离不开LABView嵌入式开发](http://home.eeworld.com.cn/my/space-uid-431262-blogid-74658.html) 
 * [Sensoro](http://www.sensoro.com/zh/iot)：基于 Arduino 的微信硬件开发、体验板。
@@ -50,6 +55,8 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
   * [ARM Cortex-M0（MCU）](http://www.arm.com/zh/products/processors/cortex-m/cortex-m0.php) + 蓝牙。
   * [相较于智能手环和手表，它要迷你得多](http://mt.sohu.com/20150522/n413532308.shtml)
   * [动手制作属于自己的可穿戴设备](http://www.cnbeta.com/articles/291331.htm)
+* [WRTnode](http://cn.wrtnode.com/w/)：OpenWrt开源硬件，极小型Linux+Wi-Fi开发板，简单完整的IDE，智能机器之心
+	* [WRTnode罗未：开放制造的机器之心](http://www.leiphone.com/news/201406/wrtnode-machine-openhardware.html)
 * [NodeMCU](http://www.nodemcu.com/index_cn.html)：基于 Lua 语言开发板
 	* [firmware](https://github.com/nodemcu/nodemcu-firmware)
 
