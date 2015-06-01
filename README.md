@@ -7,6 +7,7 @@
 	* [Products](http://www.arduino.cc/en/Main/Products)
 	* [NodeJs on Arduino Yun](http://www.appsaloon.be/blog/node-js-arduino-yun/)
 * [Raspberry Pi](https://www.raspberrypi.org/)
+	* [Getting Started](https://www.raspberrypi.org/resources/learn/)
 	* [专访树莓派创始人 Eben Upton：坚持 35 美元不动摇](http://www.ifanr.com/442783)
 	* [能搭载 windows 10 的树莓派](http://www.ifanr.com/489504) 
 * [RedBearLab](http://redbearlab.com/)
@@ -38,6 +39,9 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 	* [谷歌正开发物联网安卓版本 欲统一智能家居](http://tech.qq.com/a/20150522/009319.htm)
 	* [Brillo：Google的物联网野心](http://jandan.net/2015/05/27/hello-brillo.html)
 * [微软](https://www.microsoft.com/windowsembedded/zh-cn/internet-of-things.aspx)
+	* [Developer](https://dev.windows.com/en-US/iot) 
+* IBM
+	* [IoT Foundation](https://developer.ibm.com/iotfoundation/) 
 * Facebook
   * [Parse for IoT：Facebook的物联网SDK](http://www.infoq.com/cn/news/2015/03/parse-for-iot-facebook-sdk)
 * [华为](http://www.oiotc.cc/)
