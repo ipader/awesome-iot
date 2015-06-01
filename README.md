@@ -6,6 +6,9 @@
 * [Arduino](http://www.arduino.cc/)
 	* [Products](http://www.arduino.cc/en/Main/Products)
 	* [NodeJs on Arduino Yun](http://www.appsaloon.be/blog/node-js-arduino-yun/)
+* [Raspberry Pi](https://www.raspberrypi.org/)
+	* [专访树莓派创始人 Eben Upton：坚持 35 美元不动摇](http://www.ifanr.com/442783)
+	* [能搭载 windows 10 的树莓派](http://www.ifanr.com/489504) 
 * [RedBearLab](http://redbearlab.com/)
 	* [blend](http://redbearlab.com/blendmicro/)：集成蓝牙4.0 Arduino 开发板。 
 	* [GitHub: RedBearLab/Blend](https://github.com/RedBearLab/Blend)
@@ -149,4 +152,5 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 * [MicroPython：针对微控制器的Python](http://www.iteye.com/news/30549)
 * [艾拉物联张南雄：物联网想落地？还得从企业层入手](http://www.pingwest.com/ayla-networks-iot-enterprise/)
 * [Google I/O 2015 - Project Tango 手机亮相](http://www.ifanr.com/527040)
-
+* [Google 给出了可穿戴设备的终极答案](http://www.ifanr.com/527206)
+* [那些基于Arduino/树莓派的家庭物联网项目](http://www.leiphone.com/news/201406/arduino-raspberrypi-connected-home.html)
