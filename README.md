@@ -73,11 +73,14 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 ### 编程环境
 * [NodeJs](http://nodejs.org)
 	* [Getting Started](https://cnodejs.org/getstart) 
-* [CylonJS](http://cylonjs.com)
+* [CylonJS](http://cylonjs.com)：提供 36 硬件平台开发支持 
+	* [GitHub](https://github.com/hybridgroup/cylon/)
+* [JohnnyFive](http://johnny-five.io/)：基于 Arduino Firmata 协议的 NodeJs 开发库
+	* [GitHub](https://github.com/rwaldron/johnny-five) 
 * [Arduino](http://www.arduino.cc/en/Main/Software)
 	* [Getting Started](http://www.arduino.cc/en/Guide/HomePage)
 	* [GitHub: Arduino](https://github.com/arduino/Arduino)
-	* [firmata](https://github.com/firmata/arduino)：FirMata 协议开源实现大全
+	* [firmata](https://github.com/firmata/arduino)：Firmata 协议开源实现大全
 	* [Arduino Experimenter's Guide for NodeJS](http://node-ardx.org/)
 	* [Firmata 解析](http://blog.csdn.net/changesway/article/details/5503099) 
 	* [CylonJS for Arduino](http://cylonjs.com/documentation/platforms/arduino/)
