@@ -51,6 +51,9 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 	* [
 为 IoT 建立统一标准，华为推出开源物联网操作系统 LiteOS](http://technews.cn/2015/05/30/huawei-iot-liteo/)
 	* [我们应该用什么姿势，看待华为的Liteos？](http://www.leiphone.com/news/201505/qYBPMOnaYyntp5KR.html) 
+* 三星
+	* [ARTIK](https://www.artik.io)	
+	* [三星加入 Arduino 认证计划，推出强大的物联网开发工具 ARTIK](http://oszine.com/samsung-arduino-artikboard/)
 * 腾讯
 	* [腾讯物联网开放平台](http://iot.open.qq.com/)
 * [LABView](http://www.ni.com/labview/zhs/)
@@ -161,3 +164,5 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 * [Google I/O 2015 - Project Tango 手机亮相](http://www.ifanr.com/527040)
 * [Google 给出了可穿戴设备的终极答案](http://www.ifanr.com/527206)
 * [那些基于Arduino/树莓派的家庭物联网项目](http://www.leiphone.com/news/201406/arduino-raspberrypi-connected-home.html)
+* [机器人开发框架项目汇总](http://www.csdn.net/article/2014-04-29/2819556-5-open-source-reboot-framework-summary)
+* [李一男牛电科技发布智能电动踏板车“小牛 N1”](http://techcrunch.cn/2015/06/01/xiaoniu-n1/?ncid=rss)
