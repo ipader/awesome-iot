@@ -40,6 +40,9 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 	* [Brillo：Google的物联网野心](http://jandan.net/2015/05/27/hello-brillo.html)
 * [微软](https://www.microsoft.com/windowsembedded/zh-cn/internet-of-things.aspx)
 	* [Developer](https://dev.windows.com/en-US/iot) 
+* 英特尔
+	* [IoT](https://software.intel.com/zh-cn/iot/home)
+	* [英特尔® 物联网开发套件v1.0正式发布](https://software.intel.com/zh-cn/blogs/2015/02/20/intel-iot-developer-kit-v10-is-here)
 * IBM
 	* [IoT Foundation](https://developer.ibm.com/iotfoundation/) 
 * Facebook
