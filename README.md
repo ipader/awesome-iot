@@ -71,6 +71,8 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 * [WRTnode](http://cn.wrtnode.com/w/)：OpenWrt开源硬件，极小型Linux+Wi-Fi开发板，简单完整的IDE，智能机器之心
 	* [WRTnode罗未：开放制造的机器之心](http://www.leiphone.com/news/201406/wrtnode-machine-openhardware.html)
 * [OSBean](http://www.osbean.com/)
+	* [OSBean Air](http://www.osbean.com/portfolio_page/nano/) 
+	* [OSBean Air，一块只有硬币大小的带 WiFi的Arduino](http://36kr.com/p/532549.html)
 * [NodeMCU](http://www.nodemcu.com/index_cn.html)：基于 Lua 语言开发板
 	* [firmware](https://github.com/nodemcu/nodemcu-firmware)
 * [RoboPeak](http://www.robopeak.com/)
