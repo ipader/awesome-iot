@@ -70,6 +70,7 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
   * [动手制作属于自己的可穿戴设备](http://www.cnbeta.com/articles/291331.htm)
 * [WRTnode](http://cn.wrtnode.com/w/)：OpenWrt开源硬件，极小型Linux+Wi-Fi开发板，简单完整的IDE，智能机器之心
 	* [WRTnode罗未：开放制造的机器之心](http://www.leiphone.com/news/201406/wrtnode-machine-openhardware.html)
+* [OSBean](http://www.osbean.com/)
 * [NodeMCU](http://www.nodemcu.com/index_cn.html)：基于 Lua 语言开发板
 	* [firmware](https://github.com/nodemcu/nodemcu-firmware)
 * [RoboPeak](http://www.robopeak.com/)
@@ -117,7 +118,9 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 
 ### 智能家居
 #### 1. 集成商
+* [海尔](http://www.haier.com/cn/business/Uhome/)
 * [小米](http://home.mi.com/)
+	* [开发合作者平台](http://open.home.mi.com/index.html#/intro)：
 * [奇酷](http://www.qikoo.com/)
 * [中兴](http://www.ztehome.com.cn/)
 	* [小兴看看](http://www.ztehome.com.cn/index.php/home/14-camera/20-xiaoxinkankan)
@@ -169,3 +172,6 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 * [那些基于Arduino/树莓派的家庭物联网项目](http://www.leiphone.com/news/201406/arduino-raspberrypi-connected-home.html)
 * [机器人开发框架项目汇总](http://www.csdn.net/article/2014-04-29/2819556-5-open-source-reboot-framework-summary)
 * [李一男牛电科技发布智能电动踏板车“小牛 N1”](http://techcrunch.cn/2015/06/01/xiaoniu-n1/?ncid=rss)
+
+### 观点评论
+* [智能家居中心论与平台观的破产](http://www.leikeji.com/article?675) By 陶军宝 from [@欧瑞博智能家居](http://weibo.com/oruibo)
