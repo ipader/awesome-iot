@@ -10,6 +10,10 @@
 	* [Getting Started](https://www.raspberrypi.org/resources/learn/)
 	* [专访树莓派创始人 Eben Upton：坚持 35 美元不动摇](http://www.ifanr.com/442783)
 	* [能搭载 windows 10 的树莓派](http://www.ifanr.com/489504) 
+* [ARM mbed](https://mbed.org/)
+	* [GitHub：mbedmicro/mbed](https://github.com/mbedmicro/mbed)
+* [Contiki](http://www.contiki-os.org/)
+	* [Contiki：鲜为人知的物联网系统](http://www.leiphone.com/news/201406/internet-of-things-contiki.html)
 * [RedBearLab](http://redbearlab.com/)
 	* [blend](http://redbearlab.com/blendmicro/)：集成蓝牙4.0 Arduino 开发板。 
 	* [GitHub: RedBearLab/Blend](https://github.com/RedBearLab/Blend)
@@ -173,6 +177,8 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 * [Google 给出了可穿戴设备的终极答案](http://www.ifanr.com/527206)
 * [那些基于Arduino/树莓派的家庭物联网项目](http://www.leiphone.com/news/201406/arduino-raspberrypi-connected-home.html)
 * [机器人开发框架项目汇总](http://www.csdn.net/article/2014-04-29/2819556-5-open-source-reboot-framework-summary)
+* [第一批可以用Siri操作的智能家居产品亮相——什么都好，除了价格](http://www.pingwest.com/first-homekit-products-have-been-launched/)
+* [Siri 终于到你家了 ：简便科技生活从此开启](http://www.feng.com/apple/news/2015-06-02/For-one-year-Forward-to-the-first-paragraph-HomeKit-product-listed-finally_615644.shtml)
 * [李一男牛电科技发布智能电动踏板车“小牛 N1”](http://techcrunch.cn/2015/06/01/xiaoniu-n1/?ncid=rss)
 
 ### 观点评论
