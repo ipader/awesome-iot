@@ -12,6 +12,7 @@
 	* [能搭载 windows 10 的树莓派](http://www.ifanr.com/489504) 
 * [ARM mbed](https://mbed.org/)
 	* [GitHub：mbedmicro/mbed](https://github.com/mbedmicro/mbed)
+	* [mbed 快速入门](http://mbed.smeshlink.com/guide)
 * [Contiki](http://www.contiki-os.org/)
 	* [Contiki：鲜为人知的物联网系统](http://www.leiphone.com/news/201406/internet-of-things-contiki.html)
 * [RedBearLab](http://redbearlab.com/)
