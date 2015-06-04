@@ -15,6 +15,8 @@
 	* [mbed 快速入门](http://mbed.smeshlink.com/guide)
 * [Contiki](http://www.contiki-os.org/)
 	* [Contiki：鲜为人知的物联网系统](http://www.leiphone.com/news/201406/internet-of-things-contiki.html)
+* [Nucleus OS](http://www.mentor.com/embedded-software/nucleus/)
+	* [构筑基于物联网操作系统的物联网生态环境](http://blog.csdn.net/hellochina15/article/details/23206691)
 * [RedBearLab](http://redbearlab.com/)
 	* [blend](http://redbearlab.com/blendmicro/)：集成蓝牙4.0 Arduino 开发板。 
 	* [GitHub: RedBearLab/Blend](https://github.com/RedBearLab/Blend)
@@ -60,8 +62,12 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 为 IoT 建立统一标准，华为推出开源物联网操作系统 LiteOS](http://technews.cn/2015/05/30/huawei-iot-liteo/)
 	* [我们应该用什么姿势，看待华为的Liteos？](http://www.leiphone.com/news/201505/qYBPMOnaYyntp5KR.html) 
 * 三星
-	* [ARTIK](https://www.artik.io)	
-	* [三星加入 Arduino 认证计划，推出强大的物联网开发工具 ARTIK](http://oszine.com/samsung-arduino-artikboard/)
+	* [ARTIK](https://www.artik.io)	：采用 [Nucleus OS](http://www.mentor.com/embedded-software/nucleus/)
+		* [三星发布物联网系列芯片Artik 硬件巨人也开始玩软件生态了](http://geek.csdn.net/news/detail/32526)
+		* [三星加入 Arduino 认证计划，推出强大的物联网开发工具 ARTIK](http://oszine.com/samsung-arduino-artikboard/)	
+	* [SmartThings](http://www.smartthings.com/)
+		* [SmartThings 简介](http://blog.csdn.net/panjunbiao/article/details/9425431)
+		* [收购智能家居平台SmartThings，三星的“物联网”也来了](http://www.pingwest.com/weibo-2014-q2/)
 * 腾讯
 	* [腾讯物联网开放平台](http://iot.open.qq.com/)
 * [LABView](http://www.ni.com/labview/zhs/)
