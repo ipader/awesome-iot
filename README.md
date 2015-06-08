@@ -8,6 +8,7 @@
 	* [NodeJs on Arduino Yun](http://www.appsaloon.be/blog/node-js-arduino-yun/)
 * [Raspberry Pi](https://www.raspberrypi.org/)
 	* [Getting Started](https://www.raspberrypi.org/resources/learn/)
+	* [Raspbian：世界上“最小的”操作系统是怎样炼成的？](http://www.pingwest.com/building-the-raspbian-os/)
 	* [专访树莓派创始人 Eben Upton：坚持 35 美元不动摇](http://www.ifanr.com/442783)
 	* [能搭载 windows 10 的树莓派](http://www.ifanr.com/489504) 
 * [ARM mbed](https://mbed.org/)
@@ -26,6 +27,7 @@
 	* [让 Arduino 便捷联网的模块 Spark](http://cn.technode.com/post/2013-09-26/haxlr8r-spark/)
 * [Tessel](https://tessel.io/)：基于 Linux + NodeJs 的硬件开发平台
 	* [GitHub：tessel](https://github.com/tessel/project) 
+	* [Tessel：用JavaScript做嵌入式开发](http://blog.jobbole.com/46055/)
 * [Espruino](http://www.espruino.com/)：首个 JavaScript 微处理器
 	* [购买](http://item.taobao.com/item.htm?spm=a230r.1.14.1.YSdV7Y&id=43421292301&ns=1&abbucket=3#detail)
 * [Marvell](http://www.marvell.com.cn/)
@@ -79,7 +81,7 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
   * [ARM Cortex-M0（MCU）](http://www.arm.com/zh/products/processors/cortex-m/cortex-m0.php) + 蓝牙。
   * [相较于智能手环和手表，它要迷你得多](http://mt.sohu.com/20150522/n413532308.shtml)
   * [动手制作属于自己的可穿戴设备](http://www.cnbeta.com/articles/291331.htm)
-* [WRTnode](http://cn.wrtnode.com/w/)：OpenWrt开源硬件，极小型Linux+Wi-Fi开发板，简单完整的IDE，智能机器之心
+* [WRTnode](http://cn.wrtnode.com/w/)：[OpenWrt](https://openwrt.org/)开源硬件，极小型Linux+Wi-Fi开发板，简单完整的IDE，智能机器之心
 	* [WRTnode罗未：开放制造的机器之心](http://www.leiphone.com/news/201406/wrtnode-machine-openhardware.html)
 * [OSBean](http://www.osbean.com/)
 	* [OSBean Air](http://www.osbean.com/portfolio_page/nano/) 
@@ -133,7 +135,7 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 #### 1. 集成商
 * [海尔](http://www.haier.com/cn/business/Uhome/)
 * [小米](http://home.mi.com/)
-	* [开发合作者平台](http://open.home.mi.com/index.html#/intro)：
+	* [开发合作者平台](http://open.home.mi.com/index.html#/intro)
 * [奇酷](http://www.qikoo.com/)
 * [中兴](http://www.ztehome.com.cn/)
 	* [小兴看看](http://www.ztehome.com.cn/index.php/home/14-camera/20-xiaoxinkankan)
@@ -164,6 +166,9 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
   * [Noki：kickstarter](https://www.kickstarter.com/projects/1227497591/noki-the-smart-doorlock-for-europe)
   * [Noki：你还在担心门没锁？](http://www.leiphone.com/news/201505/VjV2wiuDFrGJxcIe.html)
 
+### 智能穿戴
+* 智能耳机
+	* [耳朵上的智能穿戴 Here，能把声音变成玩具](http://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&mid=219432275&idx=1&sn=d66771a42a4f868290bc4c657113c956&key=c468684b929d2be2139d58db46b5a7fd480e47b1f1a9c47caf41ba753cc2b4f638c564b374b152ccc59017749ce067bd&ascene=0&uin=MTYxMDU2MzQ4MQ%3D%3D)，[kickstarter](https://www.kickstarter.com/projects/dopplerlabs/here-active-listening-change-the-way-you-hear-the)	 
 
 ### 无人机
 * [Lily 无人机](http://36kr.com/p/532831.html)：“傻瓜式”自拍无人机。通过GPS返回。
@@ -187,6 +192,7 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 * [第一批可以用Siri操作的智能家居产品亮相——什么都好，除了价格](http://www.pingwest.com/first-homekit-products-have-been-launched/)
 * [Siri 终于到你家了 ：简便科技生活从此开启](http://www.feng.com/apple/news/2015-06-02/For-one-year-Forward-to-the-first-paragraph-HomeKit-product-listed-finally_615644.shtml)
 * [李一男牛电科技发布智能电动踏板车“小牛 N1”](http://techcrunch.cn/2015/06/01/xiaoniu-n1/?ncid=rss)
+* [物联网时代的35款开源工具](http://os.51cto.com/art/201409/451092.htm)
 
 ### 观点评论
 * [智能家居中心论与平台观的破产](http://www.leikeji.com/article?675) By 陶军宝 from [@欧瑞博智能家居](http://weibo.com/oruibo)
