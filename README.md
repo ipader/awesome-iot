@@ -193,6 +193,16 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 * [Zano 无人机](http://www.ifanr.com/472892)：最小的拍照无人机。
 * [大疆无人机](http://www.dji.com/cn)：国产最牛无人机。
 * [比GPS更准，新型无人机导航系统问世](http://www.leiphone.com/news/201505/fJxLEvFRqAGarWsV.html)：通过预制卫星地图及视觉识别技术。
+
+### 工业控制
+* [SCADA](http://baike.baidu.com/view/592871.htm)：监控与数据采集（系统）
+	* [Eclipse SCADA](https://eclipse.org/eclipsescada/)
+	* 开源
+		* [openSCADA](http://openscada.org/)
+		* [hashmapinc/scada-iot](https://github.com/hashmapinc/scada-iot)
+		* [openSCADA 1.0 发布](http://www.oschina.net/news/38716/openscada-1-0)
+	* 商用
+		* [B-Scada](http://scada.com/)
  
 ### 行业动态
 * [Google 正在开发物联网系统 Brillo](http://www.ifanr.com/523481)
