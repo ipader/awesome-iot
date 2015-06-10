@@ -1,0 +1,682 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="description" content="IoTNotes : Internet of Things Notes in Chinese ">
+
+    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+
+    <title>IoTNotes</title>
+  </head>
+
+  <body>
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          <a id="forkme_banner" href="https://github.com/ideaTouch/IoTNotes">View on GitHub</a>
+
+          <h1 id="project_title">IoTNotes</h1>
+          <h2 id="project_tagline">Internet of Things Notes in Chinese </h2>
+
+            <section id="downloads">
+              <a class="zip_download_link" href="https://github.com/ideaTouch/IoTNotes/zipball/master">Download this project as a .zip file</a>
+              <a class="tar_download_link" href="https://github.com/ideaTouch/IoTNotes/tarball/master">Download this project as a tar.gz file</a>
+            </section>
+        </header>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        <h2>
+<a id="iot-笔记" class="anchor" href="#iot-%E7%AC%94%E8%AE%B0" aria-hidden="true"><span class="octicon octicon-link"></span></a>IoT 笔记</h2>
+
+<blockquote>
+<p>40 年前热衷于硬件的创客们成就了个人电脑辉煌年代，统一的闭源系统使得软件业高速发展。如今，热衷于开源硬件的创客们姗姗来临，五花八门的智能硬件层出不穷，又一个辉煌年代。我在这里做点记录。
+微博：<a href="http://weibo.com/u/5592401903">@IoT笔记</a></p>
+</blockquote>
+
+<h3>
+<a id="开发板一览" class="anchor" href="#%E5%BC%80%E5%8F%91%E6%9D%BF%E4%B8%80%E8%A7%88" aria-hidden="true"><span class="octicon octicon-link"></span></a>开发板一览</h3>
+
+<table>
+<thead>
+<tr>
+<th>平台商</th>
+<th>开发板</th>
+<th>操作系统</th>
+<th>开发工具</th>
+<th>常用语言</th>
+<th>通讯协议</th>
+<th>文档</th>
+<th>备注</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="http://www.arduino.cc/">Auduino</a></td>
+<td><a href="http://www.arduino.cc/en/Main/Products">Arduino</a></td>
+<td>RTOS</td>
+<td><a href="http://www.arduino.cc/en/Main/Software/">Auduino IDE</a></td>
+<td>C/C++</td>
+<td><a href="http://www.arduino.cc/en/reference/firmata">Firmata</a></td>
+<td><a href="http://www.arduino.cc/en/Guide/HomePage">入门</a></td>
+<td>最流行的开源开发板</td>
+</tr>
+<tr>
+<td><a href="https://www.raspberrypi.org/">Raspberry Pi</a></td>
+<td><a href="https://www.raspberrypi.org/products/">Raspberry Pi</a></td>
+<td><a href="https://www.raspbian.org/">Raspbian</a></td>
+<td><a href="https://blog.idrsolutions.com/2014/12/top-8-ides-programmers-coders-beginners-raspberry-pi/">Top 8 IDEs</a></td>
+<td>不限</td>
+<td>TCP/IP,Firmata</td>
+<td><a href="https://www.raspberrypi.org/resources/learn/">入门</a></td>
+<td>最火热的 Linux 开发板</td>
+</tr>
+<tr>
+<td><a href="https://mbed.org/">ARM mbed</a></td>
+<td><a href="https://developer.mbed.org/platforms/">ARM mbed</a></td>
+<td><a href="https://developer.mbed.org/handbook/RTOS">mbed RTOS</a></td>
+<td><a href="https://developer.mbed.org/handbook/mbed-Compiler">mbed Compiler</a></td>
+<td>C/C++</td>
+<td><a href="https://developer.mbed.org/handbook/TCP-IP-protocols-and-APIs">TCP/IP</a></td>
+<td><a href="http://mbed.smeshlink.com/guide">入门</a></td>
+<td>ARM 低功耗物联网平台</td>
+</tr>
+<tr>
+<td><a href="http://www.marvell.com/solutions/internet-of-things/">Marvell</a></td>
+<td><a href="http://www.marvell.com/microcontrollers/wi-fi-microcontroller-platform/">88MC200</a></td>
+<td><a href="http://www.freertos.org/">FreeRTOS</a></td>
+<td><a href="http://kinoma.com/create/">Kinoma Create</a></td>
+<td>不限</td>
+<td>TCP/IP</td>
+<td><a href="http://www.marvell.com/microcontrollers/wi-fi-microcontroller-platform/software/">入门</a></td>
+<td>小米物联平台</td>
+</tr>
+<tr>
+<td><a href="https://tessel.io/">Tessel</a></td>
+<td><a href="https://shop.tessel.io/">Tessel</a></td>
+<td><a href="">JavaScript MCU</a></td>
+<td><a href="http://start.tessel.io/usage">tessel</a></td>
+<td>Javascript</td>
+<td><a href="https://tessel.io/docs/communicationProtocols">Protocols</a></td>
+<td><a href="">入门</a></td>
+<td>Javascript微内核/NodeJs开发环境</td>
+</tr>
+<tr>
+<td><a href="http://www.espruino.com/">Espruino</a></td>
+<td><a href="http://www.espruino.com/EspruinoBoard">EspruinoBoard</a></td>
+<td>Javascript MCU</td>
+<td><a href="https://chrome.google.com/webstore/detail/espruino-web-ide/bleoifhkdalbjfbobjackfdifdneehpo">Espruino Web IDE</a></td>
+<td>Javascript</td>
+<td></td>
+<td><a href="http://www.espruino.com/Quick+Start">入门</a></td>
+<td>首个 JavaScript 微处理器</td>
+</tr>
+<tr>
+<td>Samsung</td>
+<td><a href="https://www.artik.io">ARTIK</a></td>
+<td><a href="http://www.mentor.com/embedded-software/nucleus/">Nucleus</a></td>
+<td>Auduino IDE, <a href="http://www.mentor.com/embedded-software/nucleus/ide">Eclipse-based</a>
+</td>
+<td>不限</td>
+<td>Firmata,TCP/IP</td>
+<td><a href="https://www.artik.io/gettingstarted">入门</a></td>
+<td>处于内测中</td>
+</tr>
+<tr>
+<td><a href="http://iot.weixin.qq.com/">微信</a></td>
+<td><a href="http://www.sensoro.com/zh/iot">Sensoro</a></td>
+<td>RTOS</td>
+<td><a href="http://www.arduino.cc/en/Main/Software/">Auduino IDE</a></td>
+<td>Objetive-C/Java/C++</td>
+<td>
+<a href="http://www.arduino.cc/en/reference/firmata">Firmata</a>,<a href="http://iot.weixin.qq.com/document-7_2.html">AirSync</a>
+</td>
+<td><a href="http://www.sensoro.com/zh/developer">开发者</a></td>
+<td>基于 Arduino 的微信硬件开发、体验板。</td>
+</tr>
+<tr>
+<td><a href="https://mbientlab.com">mbientlab</a></td>
+<td><a href="https://mbientlab.com/metawear/">MetaWear</a></td>
+<td>MetaWear OS</td>
+<td>Xcode/Android Studio</td>
+<td>Objetive-C/Java</td>
+<td>Bluetooth</td>
+<td><a href="https://mbientlab.com/gettingstarted/">入门</a></td>
+<td>可穿戴微芯片</td>
+</tr>
+<tr>
+<td><a href="http://cn.wrtnode.com/w/">WRTnode</a></td>
+<td><a href="http://cn.wrtnode.com/sale.html">WRTnode</a></td>
+<td><a href="https://openwrt.org/">OpenWrt</a></td>
+<td><a href="http://www.eclipse.org/downloads/packages/eclipse-ide-cc-developers/keplersr2">Eclipse C/C++ IDE </a></td>
+<td>C/C++</td>
+<td>TCP/IP</td>
+<td><a href="http://wiki.wrtnode.com/index.php?title=Main_Page/zh-cn">入门</a></td>
+<td>最小Linux开发板</td>
+</tr>
+<tr>
+<td><a href="http://www.nodemcu.com/index_cn.html">NodeMCU</a></td>
+<td><a href="https://github.com/nodemcu/nodemcu-firmware">NodeMCU</a></td>
+<td><a href="http://www.eluaproject.net/">eLua</a></td>
+<td><a href="https://github.com/nuraci/Goat-IDE">eLua IDE</a></td>
+<td>Lua</td>
+<td><a href="http://en.wikipedia.org/wiki/XMODEM">XMODEM</a></td>
+<td><a href="http://wiki.wrtnode.com/index.php?title=Main_Page/zh-cn">文档</a></td>
+<td>基于 Lua 语言开发板</td>
+</tr>
+</tbody>
+</table>
+
+<h3>
+<a id="开发平台" class="anchor" href="#%E5%BC%80%E5%8F%91%E5%B9%B3%E5%8F%B0" aria-hidden="true"><span class="octicon octicon-link"></span></a>开发平台</h3>
+
+<ul>
+<li>
+<a href="http://www.arduino.cc/">Arduino</a>
+
+<ul>
+<li><a href="http://www.arduino.cc/en/Main/Products">Products</a></li>
+<li><a href="http://www.appsaloon.be/blog/node-js-arduino-yun/">NodeJs on Arduino Yun</a></li>
+</ul>
+</li>
+<li>
+<a href="https://www.raspberrypi.org/">Raspberry Pi</a>
+
+<ul>
+<li><a href="https://www.raspberrypi.org/resources/learn/">Getting Started</a></li>
+<li><a href="http://www.pingwest.com/building-the-raspbian-os/">Raspbian：世界上“最小的”操作系统是怎样炼成的？</a></li>
+<li><a href="http://www.ifanr.com/442783">专访树莓派创始人 Eben Upton：坚持 35 美元不动摇</a></li>
+<li>
+<a href="http://www.ifanr.com/489504">能搭载 windows 10 的树莓派</a> </li>
+</ul>
+</li>
+<li>
+<a href="https://mbed.org/">ARM mbed</a>
+
+<ul>
+<li><a href="https://github.com/mbedmicro/mbed">GitHub：mbedmicro/mbed</a></li>
+<li><a href="http://mbed.smeshlink.com/guide">mbed 快速入门</a></li>
+</ul>
+</li>
+<li>
+<a href="http://www.contiki-os.org/">Contiki</a>
+
+<ul>
+<li><a href="http://www.leiphone.com/news/201406/internet-of-things-contiki.html">Contiki：鲜为人知的物联网系统</a></li>
+</ul>
+</li>
+<li>
+<a href="http://www.mentor.com/embedded-software/nucleus/">Nucleus OS</a>
+
+<ul>
+<li><a href="http://blog.csdn.net/hellochina15/article/details/23206691">构筑基于物联网操作系统的物联网生态环境</a></li>
+</ul>
+</li>
+<li>
+<a href="http://redbearlab.com/">RedBearLab</a>
+
+<ul>
+<li>
+<a href="http://redbearlab.com/blendmicro/">blend</a>：集成蓝牙4.0 Arduino 开发板。 </li>
+<li><a href="https://github.com/RedBearLab/Blend">GitHub: RedBearLab/Blend</a></li>
+<li><a href="http://www.eepw.com.cn/article/247864.htm">单线路板蓝牙智能 Arduino 解决方案</a></li>
+</ul>
+</li>
+<li>
+<a href="https://www.particle.io/">Particle</a> 
+
+<ul>
+<li><a href="http://docs.particle.io/photon/start/">Gettting Started</a></li>
+<li><a href="http://cn.technode.com/post/2013-09-26/haxlr8r-spark/">让 Arduino 便捷联网的模块 Spark</a></li>
+</ul>
+</li>
+<li>
+<a href="https://tessel.io/">Tessel</a>：基于 Linux + NodeJs 的硬件开发平台
+
+<ul>
+<li>
+<a href="https://github.com/tessel/project">GitHub：tessel</a> </li>
+<li><a href="http://blog.jobbole.com/46055/">Tessel：用JavaScript做嵌入式开发</a></li>
+</ul>
+</li>
+<li>
+<a href="http://www.espruino.com/">Espruino</a>：首个 JavaScript 微处理器
+
+<ul>
+<li><a href="http://item.taobao.com/item.htm?spm=a230r.1.14.1.YSdV7Y&amp;id=43421292301&amp;ns=1&amp;abbucket=3#detail">购买</a></li>
+</ul>
+</li>
+<li>
+<a href="http://www.marvell.com.cn/">Marvell</a>
+
+<ul>
+<li>
+<a href="http://kinoma.com/create/about/">Kinoma Create</a> ：物联网开发工具包</li>
+<li>相关报道：
+
+<ul>
+<li>
+<a href="http://technews.cn/2014/10/29/marvell-kinoma-create/">
+Marvell 推出 Kinoma Create 物联网开发套件 专案设计带着走</a> </li>
+<li>
+<a href="http://www.marvell.com.cn/company/news/pressDetail.do?releaseID=6223">Marvell 开源 KinomaJS 应用框架，加速物联网行业成长</a> </li>
+<li>
+<a href="http://www.marvell.com.cn/company/news/pressDetail.do?releaseID=6296">Marvell IoT平台在业界率先为硬件制造商提供全面HomeKit支持</a> </li>
+<li><a href="http://%20%20%20www.marvell.com.cn/company/news/pressDetail.do?releaseID=6438">Marvell 推出业界领先的ZigBee无线微控制器SoC，促进智能家居和IoT创新</a></li>
+<li><a href="http://www.marvell.com.cn/company/news/pressDetail.do?releaseID=6224">Marvell 一流端到端物联网平台助力小米推出最新智能家居产品</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Apple
+
+<ul>
+<li>
+<a href="https://developer.apple.com/homekit/">HomeKit</a> </li>
+<li><a href="http://www.forbeschina.com/review/201505/0042736.shtml">首批苹果HomeKit认证智能家居设备有望下月（2015-6）面市</a></li>
+</ul>
+</li>
+<li>Google
+
+<ul>
+<li>
+<a href="http://www.ifanr.com/news/526455">【I/O 2015】Google 的物联网平台来了！叫 Brillo</a>：
+Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬件的操作系统。通讯协议 Weave。 </li>
+<li><a href="http://tech.qq.com/a/20150522/009319.htm">谷歌正开发物联网安卓版本 欲统一智能家居</a></li>
+<li><a href="http://jandan.net/2015/05/27/hello-brillo.html">Brillo：Google的物联网野心</a></li>
+</ul>
+</li>
+<li>
+<a href="https://www.microsoft.com/windowsembedded/zh-cn/internet-of-things.aspx">微软</a>
+
+<ul>
+<li>
+<a href="https://dev.windows.com/en-US/iot">Developer</a> </li>
+</ul>
+</li>
+<li>英特尔
+
+<ul>
+<li><a href="https://software.intel.com/zh-cn/iot/home">IoT</a></li>
+<li><a href="https://software.intel.com/zh-cn/blogs/2015/02/20/intel-iot-developer-kit-v10-is-here">英特尔® 物联网开发套件v1.0正式发布</a></li>
+</ul>
+</li>
+<li>IBM
+
+<ul>
+<li>
+<a href="https://developer.ibm.com/iotfoundation/">IoT Foundation</a> </li>
+</ul>
+</li>
+<li>Facebook
+
+<ul>
+<li><a href="http://www.infoq.com/cn/news/2015/03/parse-for-iot-facebook-sdk">Parse for IoT：Facebook的物联网SDK</a></li>
+</ul>
+</li>
+<li>
+<a href="http://www.oiotc.cc/">华为</a>
+
+<ul>
+<li>
+<a href="http://www.oiotc.cc/index.php?m=project&amp;a=kernel">LiteOS</a>：LiteOS 只有10KB，是目前最轻量级的物联网开源操作系统。</li>
+<li><a href="http://forum.oiotc.cc/forum.php?mod=viewthread&amp;tid=110">海思单板 poplar</a></li>
+<li><a href="http://www.huawei.com/cn/solutions/arpu-up/hw-083596-------------------------m2m.htm#.VWp8SJOUdd8">解决方案：物联网（M2M）</a></li>
+<li><a href="http://technews.cn/2015/05/30/huawei-iot-liteo/">
+为 IoT 建立统一标准，华为推出开源物联网操作系统 LiteOS</a></li>
+<li>
+<a href="http://www.leiphone.com/news/201505/qYBPMOnaYyntp5KR.html">我们应该用什么姿势，看待华为的Liteos？</a> </li>
+</ul>
+</li>
+<li>三星
+
+<ul>
+<li>
+<a href="https://www.artik.io">ARTIK</a> ：采用 <a href="http://www.mentor.com/embedded-software/nucleus/">Nucleus OS</a>
+
+<ul>
+<li><a href="http://geek.csdn.net/news/detail/32526">三星发布物联网系列芯片Artik 硬件巨人也开始玩软件生态了</a></li>
+<li>
+<a href="http://oszine.com/samsung-arduino-artikboard/">三星加入 Arduino 认证计划，推出强大的物联网开发工具 ARTIK</a><br>
+</li>
+</ul>
+</li>
+<li>
+<a href="http://www.smartthings.com/">SmartThings</a>
+
+<ul>
+<li><a href="http://blog.csdn.net/panjunbiao/article/details/9425431">SmartThings 简介</a></li>
+<li><a href="http://www.pingwest.com/weibo-2014-q2/">收购智能家居平台SmartThings，三星的“物联网”也来了</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>腾讯
+
+<ul>
+<li><a href="http://iot.open.qq.com/">腾讯物联网开放平台</a></li>
+</ul>
+</li>
+<li>
+<a href="http://www.ni.com/labview/zhs/">LABView</a>
+
+<ul>
+<li>
+<a href="http://home.eeworld.com.cn/my/space-uid-431262-blogid-74658.html">物联网离不开LABView嵌入式开发</a> </li>
+</ul>
+</li>
+<li>
+<a href="http://www.sensoro.com/zh/iot">Sensoro</a>：基于 Arduino 的微信硬件开发、体验板。
+
+<ul>
+<li>开发者指南：<a href="https://github.com/Sensoro/IOT">Sensoro/IOT</a>
+</li>
+<li><a href="http://www.ifanr.com/524162">解密让微信成为物联网中枢的 AirSync</a></li>
+</ul>
+</li>
+<li>
+<a href="https://mbientlab.com/metawear/">MetaWear</a>：“MetaWear是一款迷你的无线传感器，可用手机进行设置和管理。此外，通过平板电脑、蓝牙设备等也可以和它进行连接”。参考价: $35 ~ $80
+
+<ul>
+<li>
+<a href="http://www.arm.com/zh/products/processors/cortex-m/cortex-m0.php">ARM Cortex-M0（MCU）</a> + 蓝牙。</li>
+<li><a href="http://mt.sohu.com/20150522/n413532308.shtml">相较于智能手环和手表，它要迷你得多</a></li>
+<li><a href="http://www.cnbeta.com/articles/291331.htm">动手制作属于自己的可穿戴设备</a></li>
+</ul>
+</li>
+<li>
+<a href="http://cn.wrtnode.com/w/">WRTnode</a>：<a href="https://openwrt.org/">OpenWrt</a>开源硬件，极小型Linux+Wi-Fi开发板，简单完整的IDE，智能机器之心
+
+<ul>
+<li><a href="http://www.leiphone.com/news/201406/wrtnode-machine-openhardware.html">WRTnode罗未：开放制造的机器之心</a></li>
+</ul>
+</li>
+<li>
+<a href="http://www.osbean.com/">OSBean</a>
+
+<ul>
+<li>
+<a href="http://www.osbean.com/portfolio_page/nano/">OSBean Air</a> </li>
+<li><a href="http://36kr.com/p/532549.html">OSBean Air，一块只有硬币大小的带 WiFi的Arduino</a></li>
+</ul>
+</li>
+<li>
+<a href="http://www.nodemcu.com/index_cn.html">NodeMCU</a>：基于 Lua 语言开发板
+
+<ul>
+<li><a href="https://github.com/nodemcu/nodemcu-firmware">firmware</a></li>
+</ul>
+</li>
+<li>
+<a href="http://www.robopeak.com/">RoboPeak</a>
+
+<ul>
+<li><a href="http://36kr.com/p/211924.html">激光雷达RPLidar，成本仅为工业级产品的十分之一</a></li>
+<li><a href="http://www.ifanr.com/295248">RoboPeak 从团队到公司跨越</a></li>
+</ul>
+</li>
+</ul>
+
+<h3>
+<a id="编程环境" class="anchor" href="#%E7%BC%96%E7%A8%8B%E7%8E%AF%E5%A2%83" aria-hidden="true"><span class="octicon octicon-link"></span></a>编程环境</h3>
+
+<ul>
+<li>
+<a href="http://nodejs.org">NodeJs</a>
+
+<ul>
+<li>
+<a href="https://cnodejs.org/getstart">Getting Started</a> </li>
+</ul>
+</li>
+<li>
+<a href="http://cylonjs.com">CylonJS</a>：提供 36 硬件平台开发支持 
+
+<ul>
+<li><a href="https://github.com/hybridgroup/cylon/">GitHub</a></li>
+</ul>
+</li>
+<li>
+<a href="http://johnny-five.io/">JohnnyFive</a>：基于 Arduino Firmata 协议的 NodeJs 开发库
+
+<ul>
+<li>
+<a href="https://github.com/rwaldron/johnny-five">GitHub</a> </li>
+</ul>
+</li>
+<li>
+<a href="http://www.arduino.cc/en/Main/Software">Arduino</a>
+
+<ul>
+<li><a href="http://www.arduino.cc/en/Guide/HomePage">Getting Started</a></li>
+<li><a href="https://github.com/arduino/Arduino">GitHub: Arduino</a></li>
+<li>
+<a href="https://github.com/firmata/arduino">firmata</a>：Firmata 协议开源实现大全</li>
+<li><a href="http://node-ardx.org/">Arduino Experimenter's Guide for NodeJS</a></li>
+<li>
+<a href="http://blog.csdn.net/changesway/article/details/5503099">Firmata 解析</a> </li>
+<li><a href="http://cylonjs.com/documentation/platforms/arduino/">CylonJS for Arduino</a></li>
+</ul>
+</li>
+<li><a href="http://kinoma.com/studio/">Kinoma Studio</a></li>
+<li>
+<a href="https://www.particle.io/dev">Particle</a>
+
+<ul>
+<li><a href="http://docs.particle.io/photon/start/">Gettting Started</a></li>
+</ul>
+</li>
+</ul>
+
+<h3>
+<a id="创客社区" class="anchor" href="#%E5%88%9B%E5%AE%A2%E7%A4%BE%E5%8C%BA" aria-hidden="true"><span class="octicon octicon-link"></span></a>创客社区</h3>
+
+<ul>
+<li><a href="http://weibo.com/seeedstudio">@SeeedStudio</a></li>
+<li><a href="http://weibo.com/dfrobot">@DFRobot</a></li>
+<li><a href="http://weibo.com/microduino">@Microduino</a></li>
+<li><a href="http://weibo.com/p/1006065034520011">@Espruino中文社区</a></li>
+<li><a href="http://weibo.com/eeboard">@EEboard爱板网</a></li>
+</ul>
+
+<h3>
+<a id="硬件零售" class="anchor" href="#%E7%A1%AC%E4%BB%B6%E9%9B%B6%E5%94%AE" aria-hidden="true"><span class="octicon octicon-link"></span></a>硬件零售</h3>
+
+<ul>
+<li>
+<a href="https://www.sparkfun.com/">SparkFun</a>
+
+<ul>
+<li><a href="http://robotbase.taobao.com/">淘宝代理：奥松机器人</a></li>
+</ul>
+</li>
+<li>
+<a href="http://www.seeedstudio.com/">seeedstudio</a>
+
+<ul>
+<li>
+<a href="http://xidikaiyuanshuma.tmall.com/">天猫</a>：零售自己设计开发板</li>
+<li>
+<a href="http://seeed-studio.taobao.com/">淘宝</a>：代理主流开源硬件</li>
+<li><a href="http://www.ifanr.com/136507">专访 Seeed Studio：开源硬件的创新种子</a></li>
+<li><a href="http://www.bundpic.com/2013/07/22790.shtml">Seeedstudio：硬件电商</a></li>
+</ul>
+</li>
+<li>
+<a href="http://www.dfrobot.com.cn">DFRobot</a>：Arduino 授权经销商
+
+<ul>
+<li><a href="http://www.dfrobot.com.cn/index.php">商城</a></li>
+</ul>
+</li>
+<li>
+<a href="https://www.microduino.cc/">Microduino</a>：Arduino 的兼容开发板（小又可堆叠）
+
+<ul>
+<li><a href="http://microduino.taobao.com/index.htm">淘宝</a></li>
+<li><a href="http://www.csdn.net/article/1970-01-01/2816170">可堆叠的创意 开源硬件 Microduino 开发团队专访</a></li>
+</ul>
+</li>
+</ul>
+
+<h3>
+<a id="智能家居" class="anchor" href="#%E6%99%BA%E8%83%BD%E5%AE%B6%E5%B1%85" aria-hidden="true"><span class="octicon octicon-link"></span></a>智能家居</h3>
+
+<h4>
+<a id="1-集成商" class="anchor" href="#1-%E9%9B%86%E6%88%90%E5%95%86" aria-hidden="true"><span class="octicon octicon-link"></span></a>1. 集成商</h4>
+
+<ul>
+<li><a href="http://www.haier.com/cn/business/Uhome/">海尔</a></li>
+<li>
+<a href="http://home.mi.com/">小米</a>
+
+<ul>
+<li><a href="http://open.home.mi.com/index.html#/intro">开发合作者平台</a></li>
+</ul>
+</li>
+<li><a href="http://www.qikoo.com/">奇酷</a></li>
+<li>
+<a href="http://www.ztehome.com.cn/">中兴</a>
+
+<ul>
+<li><a href="http://www.ztehome.com.cn/index.php/home/14-camera/20-xiaoxinkankan">小兴看看</a></li>
+</ul>
+</li>
+<li><a href="http://www.mxchip.com/">庆科</a></li>
+</ul>
+
+<h4>
+<a id="2-智能桌" class="anchor" href="#2-%E6%99%BA%E8%83%BD%E6%A1%8C" aria-hidden="true"><span class="octicon octicon-link"></span></a>2. 智能桌</h4>
+
+<ul>
+<li>Stir M1 (奢侈级，$2999)
+
+<ul>
+<li><a href="http://www.stirworks.com/stir-kinetic-desk-m1/">详细介绍及参数</a></li>
+<li><a href="http://www.7huoxing.com/?p=7709">媒体报道：更轻巧，更贴心，更便宜</a></li>
+</ul>
+</li>
+<li>Autonomous Desk (众筹中… $499，2015年7月出货)
+
+<ul>
+<li><a href="https://www.kickstarter.com/projects/403524037/autonomous-desk-the-smartest-office-desk-yet-power">kickstarter</a></li>
+<li><a href="http://digi.163.com/15/0521/16/AQ5F6AHH001668B4.html">媒体报道：全新办公体验</a></li>
+</ul>
+</li>
+<li>LIFT PRO（众筹中… $999，2015年9月出货）
+
+<ul>
+<li><a href="https://www.indiegogo.com/projects/lift-pro-quite-possibly-the-best-electric-desk">indiegogo</a></li>
+<li>
+<a href="http://www.hitnology.com/video-377.html">媒体报道：多功能智能办公桌</a><br>
+</li>
+</ul>
+</li>
+<li>相关配件
+
+<ul>
+<li><a href="http://www.suspa.com/index.php?id=4144">suspa - 电动高度调节系统</a></li>
+<li><a href="http://www.jimi-tech.com/9/page1/">电动执行器</a></li>
+<li>
+<a href="http://ergotron.com">爱格升</a>：知名显示器液压臂。也有升降桌及配件。</li>
+<li><a href="http://zsn.tmall.com/">智升源</a></li>
+<li><a href="http://www.leemc.cn/">力美</a></li>
+</ul>
+</li>
+<li>相关报道
+
+<ul>
+<li>
+<a href="http://www.ifanr.com/520408">脑洞大开的桌子</a>：宜家厨房桌、办公桌（Stir, Autonomous）等介绍及视频</li>
+<li><a href="http://tech.sina.com.cn/q/tech/2015-05-14/doc-icpkqeaz4162345.shtml">智能会议桌：捕捉谈话人员声音告别会议记录</a></li>
+</ul>
+</li>
+</ul>
+
+<h4>
+<a id="3-智能锁" class="anchor" href="#3-%E6%99%BA%E8%83%BD%E9%94%81" aria-hidden="true"><span class="octicon octicon-link"></span></a>3. 智能锁</h4>
+
+<ul>
+<li><a href="https://www.kickstarter.com/projects/1227497591/noki-the-smart-doorlock-for-europe">Noki：kickstarter</a></li>
+<li><a href="http://www.leiphone.com/news/201505/VjV2wiuDFrGJxcIe.html">Noki：你还在担心门没锁？</a></li>
+</ul>
+
+<h3>
+<a id="智能穿戴" class="anchor" href="#%E6%99%BA%E8%83%BD%E7%A9%BF%E6%88%B4" aria-hidden="true"><span class="octicon octicon-link"></span></a>智能穿戴</h3>
+
+<ul>
+<li>智能耳机
+
+<ul>
+<li>
+<a href="http://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&amp;mid=219432275&amp;idx=1&amp;sn=d66771a42a4f868290bc4c657113c956&amp;key=c468684b929d2be2139d58db46b5a7fd480e47b1f1a9c47caf41ba753cc2b4f638c564b374b152ccc59017749ce067bd&amp;ascene=0&amp;uin=MTYxMDU2MzQ4MQ%3D%3D">耳朵上的智能穿戴 Here，能把声音变成玩具</a>，<a href="https://www.kickstarter.com/projects/dopplerlabs/here-active-listening-change-the-way-you-hear-the">kickstarter</a><br>
+</li>
+</ul>
+</li>
+</ul>
+
+<h3>
+<a id="无人机" class="anchor" href="#%E6%97%A0%E4%BA%BA%E6%9C%BA" aria-hidden="true"><span class="octicon octicon-link"></span></a>无人机</h3>
+
+<ul>
+<li>
+<a href="http://36kr.com/p/532831.html">Lily 无人机</a>：“傻瓜式”自拍无人机。通过GPS返回。</li>
+<li>
+<a href="http://www.ifanr.com/524707">Sprite 无人机</a>：“蜻蜓式”驴友无人机。通过可佩戴的追踪器返回。</li>
+<li>
+<a href="http://www.ifanr.com/472892">Zano 无人机</a>：最小的拍照无人机。</li>
+<li>
+<a href="http://www.dji.com/cn">大疆无人机</a>：国产最牛无人机。</li>
+<li>
+<a href="http://www.leiphone.com/news/201505/fJxLEvFRqAGarWsV.html">比GPS更准，新型无人机导航系统问世</a>：通过预制卫星地图及视觉识别技术。</li>
+</ul>
+
+<h3>
+<a id="行业动态" class="anchor" href="#%E8%A1%8C%E4%B8%9A%E5%8A%A8%E6%80%81" aria-hidden="true"><span class="octicon octicon-link"></span></a>行业动态</h3>
+
+<ul>
+<li><a href="http://www.ifanr.com/523481">Google 正在开发物联网系统 Brillo</a></li>
+<li><a href="http://36kr.com/p/533169.html">富士康布局传感器</a></li>
+<li><a href="http://www.leiphone.com/news/201505/ViZ5mGak3mjd28v2.html">腾讯人脸识别</a></li>
+<li><a href="http://www.ifanr.com/519571">9 美元的电脑到底长成什么样？</a></li>
+<li><a href="http://www.shuyz.com/install-openwrt-on-raspberry-as-a-wireless-router.html">DIY 高性能树莓派OpenWrt无线路由器</a></li>
+<li><a href="http://www.iteye.com/news/30549">MicroPython：针对微控制器的Python</a></li>
+<li><a href="http://www.pingwest.com/ayla-networks-iot-enterprise/">艾拉物联张南雄：物联网想落地？还得从企业层入手</a></li>
+<li><a href="http://www.ifanr.com/527040">Google I/O 2015 - Project Tango 手机亮相</a></li>
+<li><a href="http://www.ifanr.com/527206">Google 给出了可穿戴设备的终极答案</a></li>
+<li><a href="http://www.leiphone.com/news/201406/arduino-raspberrypi-connected-home.html">那些基于Arduino/树莓派的家庭物联网项目</a></li>
+<li><a href="http://www.csdn.net/article/2014-04-29/2819556-5-open-source-reboot-framework-summary">机器人开发框架项目汇总</a></li>
+<li><a href="http://www.pingwest.com/first-homekit-products-have-been-launched/">第一批可以用Siri操作的智能家居产品亮相——什么都好，除了价格</a></li>
+<li><a href="http://www.feng.com/apple/news/2015-06-02/For-one-year-Forward-to-the-first-paragraph-HomeKit-product-listed-finally_615644.shtml">Siri 终于到你家了 ：简便科技生活从此开启</a></li>
+<li><a href="http://techcrunch.cn/2015/06/01/xiaoniu-n1/?ncid=rss">李一男牛电科技发布智能电动踏板车“小牛 N1”</a></li>
+<li><a href="http://os.51cto.com/art/201409/451092.htm">物联网时代的35款开源工具</a></li>
+</ul>
+
+<h3>
+<a id="观点评论" class="anchor" href="#%E8%A7%82%E7%82%B9%E8%AF%84%E8%AE%BA" aria-hidden="true"><span class="octicon octicon-link"></span></a>观点评论</h3>
+
+<ul>
+<li>
+<a href="http://www.leikeji.com/article?675">智能家居中心论与平台观的破产</a> By 陶军宝 from <a href="http://weibo.com/oruibo">@欧瑞博智能家居</a>
+</li>
+</ul>
+      </section>
+    </div>
+
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        <p class="copyright">IoTNotes maintained by <a href="https://github.com/ideaTouch">ideaTouch</a></p>
+        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
+      </footer>
+    </div>
+
+    
+
+  </body>
+</html>
