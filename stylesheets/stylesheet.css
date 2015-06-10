@@ -42,6 +42,7 @@ ol, ul {
 table {
   border-collapse: collapse;
   border-spacing: 0;
+  width:1024px;
 }
 
 /*******************************************************************************
