@@ -127,7 +127,9 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 * [Kinoma Studio](http://kinoma.com/studio/)
 * [Particle](https://www.particle.io/dev)
 	* [Gettting Started](http://docs.particle.io/photon/start/)
-* [Elipse IoT](http://iot.eclipse.org/)
+* [Eclipse IoT](http://iot.eclipse.org/)
+	* [2013 年度 Eclipse M2M 现状](http://www.infoq.com/cn/news/2013/11/eclipse-m2m)
+	* [2014 年度 Eclipse 社区报告](http://www.oschina.net/translate/2014-annual-eclipse-community-report)
 
 
 ### 创客社区
@@ -208,6 +210,9 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 		* [hashmapinc/scada-iot](https://github.com/hashmapinc/scada-iot)
 		* [openSCADA 1.0 发布](http://www.oschina.net/news/38716/openscada-1-0)
 	* 商用
+		* [施耐德](http://www.schneider-electric.cn/zh/)
+			* [施耐德 SCADA 软件Vijeo Citect产品目录](http://wenku.baidu.com/view/3e787b44561252d380eb6ec5.html)
+			* [施耐德 SCADA 产品介绍](http://wenku.baidu.com/view/db83247802768e9951e7389c.html)
 		* [B-Scada](http://scada.com/)
  
 ### 行业动态
