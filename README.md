@@ -210,9 +210,19 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 		* [hashmapinc/scada-iot](https://github.com/hashmapinc/scada-iot)
 		* [openSCADA 1.0 发布](http://www.oschina.net/news/38716/openscada-1-0)
 	* 商用
+		* [Ignition](https://inductiveautomation.com/scada-software/)
+			* [WebHMI/SCADA & MES系统软件介绍 2014](http://wenku.baidu.com/view/48917d775727a5e9846a6120.html)
+		* [西门子](https://www.industry.siemens.com.cn/automation/cn/zh/Pages/Default.aspx) 
+			* [WinCC](http://www.wincc.com.cn/)
+			* [西门子全集成能源管理系统](http://www.wincc.com.cn/xxym.aspx?id=12676)
 		* [施耐德](http://www.schneider-electric.cn/zh/)
 			* [施耐德 SCADA 软件Vijeo Citect产品目录](http://wenku.baidu.com/view/3e787b44561252d380eb6ec5.html)
 			* [施耐德 SCADA 产品介绍](http://wenku.baidu.com/view/db83247802768e9951e7389c.html)
+		* [GE](http://www.geautomation.com/)
+			[GE SCADA](http://www.geautomation.com/products/hmiscada-software)
+		* [iconicsSCADA](http://www.iconics.com/Home/Products/HMI-SCADA.aspx)
+		* [teslaSCADA](http://teslascada.com/)
+		* [mySCADA](http://www.myscadatechnologies.com/)
 		* [B-Scada](http://scada.com/)
  
 ### 行业动态
