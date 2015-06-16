@@ -204,9 +204,10 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 
 ### 工业控制
 * [SCADA](http://baike.baidu.com/view/592871.htm)：监控与数据采集（系统）
-	* [Eclipse SCADA](https://eclipse.org/eclipsescada/)
+	* [组态软件](http://baike.baidu.com/view/380099.htm)：组态软件，又称组态监控软件系统软件。译自英文SCADA,即 Supervisory Control and Data Acquisition（数据采集与监视控制）。
 	* 开源
 		* [openSCADA](http://openscada.org/)
+		* [Eclipse SCADA](https://eclipse.org/eclipsescada/)
 		* [hashmapinc/scada-iot](https://github.com/hashmapinc/scada-iot)
 		* [openSCADA 1.0 发布](http://www.oschina.net/news/38716/openscada-1-0)
 	* 商用
@@ -219,11 +220,13 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 			* [施耐德 SCADA 软件Vijeo Citect产品目录](http://wenku.baidu.com/view/3e787b44561252d380eb6ec5.html)
 			* [施耐德 SCADA 产品介绍](http://wenku.baidu.com/view/db83247802768e9951e7389c.html)
 		* [GE](http://www.geautomation.com/)
-			[GE SCADA](http://www.geautomation.com/products/hmiscada-software)
+			* [GE SCADA](http://www.geautomation.com/products/hmiscada-software)
 		* [iconicsSCADA](http://www.iconics.com/Home/Products/HMI-SCADA.aspx)
 		* [teslaSCADA](http://teslascada.com/)
 		* [mySCADA](http://www.myscadatechnologies.com/)
 		* [B-Scada](http://scada.com/)
+		* [力控科技 － SCADA](http://www.sunwayland.com/index_c_nei/78.html)
+		* [亚控科技 － 组态王](http://www.kingview.com/kingview/kingview.html)
  
 ### 行业动态
 * [Google 正在开发物联网系统 Brillo](http://www.ifanr.com/523481)
