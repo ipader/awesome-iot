@@ -227,7 +227,10 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 		* [B-Scada](http://scada.com/)
 		* [力控科技 － SCADA](http://www.sunwayland.com/index_c_nei/78.html)
 		* [亚控科技 － 组态王](http://www.kingview.com/kingview/kingview.html)
- 
+* [OPC UA](https://opcfoundation.org/about/opc-technologies/opc-ua/)
+	* [Open OPC UA](http://www.openopcua.org/)
+	* [开源 OPC UA 列表](https://github.com/acplt/open62541/wiki/List-of-Open-Source-OPC-UA-Implementations)
+	 
 ### 行业动态
 * [Google 正在开发物联网系统 Brillo](http://www.ifanr.com/523481)
 * [富士康布局传感器](http://36kr.com/p/533169.html)
