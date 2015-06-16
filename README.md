@@ -230,6 +230,9 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 * [OPC UA](https://opcfoundation.org/about/opc-technologies/opc-ua/)
 	* [Open OPC UA](http://www.openopcua.org/)
 	* [开源 OPC UA 列表](https://github.com/acplt/open62541/wiki/List-of-Open-Source-OPC-UA-Implementations)
+	* [NI - OPC Server](http://sine.ni.com/nips/cds/view/p/lang/zhs/nid/209059)
+	* [OPC-UA进入嵌入式新阶段](http://article.cechina.cn/15/0324/04/20150324041119.htm)
+	* [GE首发新的基于OPC - UA标准的“全球发现服务器（GDS）”](http://www.ca800.com/news/d_1ntn74138k5d1.html)
 	 
 ### 行业动态
 * [Google 正在开发物联网系统 Brillo](http://www.ifanr.com/523481)
