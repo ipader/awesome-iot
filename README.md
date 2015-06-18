@@ -163,11 +163,19 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 	* [开发合作者平台](http://open.home.mi.com/index.html#/intro)
 * [奇酷](http://www.qikoo.com/)
 * [中兴](http://www.ztehome.com.cn/)
-	* [小兴看看](http://www.ztehome.com.cn/index.php/home/14-camera/20-xiaoxinkankan)
 * [庆科](http://www.mxchip.com/)
+* [Nest](https://nest.com/)
 
+#### 2. 智能摄像
+	* [海康威视 － 荧石 C6 云台摄像机](http://www.ys7.com/product-130.html)
+	* [小米 － 小蚁智能摄像机](http://www.mi.com/xiaoyi/)
+	* [奇虎 － 360智能摄像机](http://www.qikoo.com/preorder/jia)
+	* [中兴 － 小兴看看](http://www.ztehome.com.cn/index.php/home/14-camera/20-xiaoxinkankan)
+	* [百度 － 小度i耳目](http://camera.baidu.com/)
+	* [爱耳目智能摄像机](http://www.iermu.com/)
+	* [Nest 推出了一个强大的智能安全摄像头，但是大部分人可能只买得起它的“国产”版](http://www.pingwest.com/what-is-the-next-big-thing-of-nest/)
 
-#### 2. 智能桌
+#### 3. 智能桌
 * Stir M1 (奢侈级，$2999)
   * [详细介绍及参数](http://www.stirworks.com/stir-kinetic-desk-m1/)
   * [媒体报道：更轻巧，更贴心，更便宜](http://www.7huoxing.com/?p=7709)
@@ -187,10 +195,15 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
   * [脑洞大开的桌子](http://www.ifanr.com/520408)：宜家厨房桌、办公桌（Stir, Autonomous）等介绍及视频
   * [智能会议桌：捕捉谈话人员声音告别会议记录]( http://tech.sina.com.cn/q/tech/2015-05-14/doc-icpkqeaz4162345.shtml)
 
-#### 3. 智能锁
+#### 4. 智能锁
   * [Noki：kickstarter](https://www.kickstarter.com/projects/1227497591/noki-the-smart-doorlock-for-europe)
   * [Noki：你还在担心门没锁？](http://www.leiphone.com/news/201505/VjV2wiuDFrGJxcIe.html)
 
+#### 5. 室内定位
+  *	[室内定位技术的前世今生](http://36kr.com/p/204953.html)
+  * [室内定位的前景如何，国内是否有与之相关的创业公司？](http://www.zhihu.com/question/20485136)
+  * [iBeacon定位与Wi-Fi定位相比，在准确度、建设成本、应用开发容易程度上有什么差异？iBeacon在国内有无案例？](http://www.zhihu.com/question/24092917)
+	
 ### 智能穿戴
 * 智能耳机
 	* [耳朵上的智能穿戴 Here，能把声音变成玩具](http://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&mid=219432275&idx=1&sn=d66771a42a4f868290bc4c657113c956&key=c468684b929d2be2139d58db46b5a7fd480e47b1f1a9c47caf41ba753cc2b4f638c564b374b152ccc59017749ce067bd&ascene=0&uin=MTYxMDU2MzQ4MQ%3D%3D)，[kickstarter](https://www.kickstarter.com/projects/dopplerlabs/here-active-listening-change-the-way-you-hear-the)	 
@@ -253,3 +266,7 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 
 ### 观点评论
 * [智能家居中心论与平台观的破产](http://www.leikeji.com/article?675) By 陶军宝 from [@欧瑞博智能家居](http://weibo.com/oruibo)
+
+### 开源协议
+* [Comparison of free and open-source software licenses](https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses#cite_note-epl-9)
+* [Simple description of popular open source licences](https://www.freebsdnews.com/2011/05/25/simple-description-popular-open-source-licences/)
