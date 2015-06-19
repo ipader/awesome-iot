@@ -167,6 +167,8 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 * [Nest](https://nest.com/)
 
 #### 2. 智能摄像
+>智能摄像目前是智能家居领域进驻厂商最多的，竟争也最为白热化（定价迥异）。目标用户通常是亲情关怀及室内、外监控（把玩）。
+
   * [海康威视 － 荧石 C6 云台摄像机](http://www.ys7.com/product-130.html)
   * [小米 － 小蚁智能摄像机](http://www.mi.com/xiaoyi/)
   * [奇虎 － 360智能摄像机](http://www.qikoo.com/preorder/jia)
