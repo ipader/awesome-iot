@@ -144,17 +144,17 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 
 ### 硬件零售
 * [SparkFun](https://www.sparkfun.com/)
-	* [淘宝代理：奥松机器人](http://robotbase.taobao.com/)
+  * [淘宝代理：奥松机器人](http://robotbase.taobao.com/)
 * [seeedstudio](http://www.seeedstudio.com/)
-	* [天猫](http://xidikaiyuanshuma.tmall.com/)：零售自己设计开发板
-	* [淘宝](http://seeed-studio.taobao.com/)：代理主流开源硬件
-	* [专访 Seeed Studio：开源硬件的创新种子](http://www.ifanr.com/136507)
-	* [Seeedstudio：硬件电商](http://www.bundpic.com/2013/07/22790.shtml)
+  * [天猫](http://xidikaiyuanshuma.tmall.com/)：零售自己设计开发板
+  * [淘宝](http://seeed-studio.taobao.com/)：代理主流开源硬件
+  * [专访 Seeed Studio：开源硬件的创新种子](http://www.ifanr.com/136507)
+  * [Seeedstudio：硬件电商](http://www.bundpic.com/2013/07/22790.shtml)
 * [DFRobot](http://www.dfrobot.com.cn)：Arduino 授权经销商
-	* [商城](http://www.dfrobot.com.cn/index.php)
+  * [商城](http://www.dfrobot.com.cn/index.php)
 * [Microduino](https://www.microduino.cc/)：Arduino 的兼容开发板（小又可堆叠）
-	* [淘宝](http://microduino.taobao.com/index.htm)
-	* [可堆叠的创意 开源硬件 Microduino 开发团队专访](http://www.csdn.net/article/1970-01-01/2816170)
+  * [淘宝](http://microduino.taobao.com/index.htm)
+  * [可堆叠的创意 开源硬件 Microduino 开发团队专访](http://www.csdn.net/article/1970-01-01/2816170)
 
 ### 智能家居
 #### 1. 集成商
@@ -167,21 +167,21 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 * [Nest](https://nest.com/)
 
 #### 2. 智能摄像
-	* [海康威视 － 荧石 C6 云台摄像机](http://www.ys7.com/product-130.html)
-	* [小米 － 小蚁智能摄像机](http://www.mi.com/xiaoyi/)
-	* [奇虎 － 360智能摄像机](http://www.qikoo.com/preorder/jia)
-	* [中兴 － 小兴看看](http://www.ztehome.com.cn/index.php/home/14-camera/20-xiaoxinkankan)
-	* [百度 － 小度i耳目](http://camera.baidu.com/)
-	* [爱耳目智能摄像机](http://www.iermu.com/)
-	* [Nest 推出了一个强大的智能安全摄像头，但是大部分人可能只买得起它的“国产”版](http://www.pingwest.com/what-is-the-next-big-thing-of-nest/)
+  * [海康威视 － 荧石 C6 云台摄像机](http://www.ys7.com/product-130.html)
+  * [小米 － 小蚁智能摄像机](http://www.mi.com/xiaoyi/)
+  * [奇虎 － 360智能摄像机](http://www.qikoo.com/preorder/jia)
+  * [中兴 － 小兴看看](http://www.ztehome.com.cn/index.php/home/14-camera/20-xiaoxinkankan)
+  * [百度 － 小度i耳目](http://camera.baidu.com/)
+  * [爱耳目智能摄像机](http://www.iermu.com/)
+  * [Nest 推出了一个强大的智能安全摄像头，但是大部分人可能只买得起它的“国产”版](http://www.pingwest.com/what-is-the-next-big-thing-of-nest/)
 
 #### 3. 智能桌
 * Stir M1 (奢侈级，$2999)
   * [详细介绍及参数](http://www.stirworks.com/stir-kinetic-desk-m1/)
   * [媒体报道：更轻巧，更贴心，更便宜](http://www.7huoxing.com/?p=7709)
 * Autonomous Desk (众筹中… $499，2015年7月出货)
-    * [kickstarter](https://www.kickstarter.com/projects/403524037/autonomous-desk-the-smartest-office-desk-yet-power)
-    * [媒体报道：全新办公体验](http://digi.163.com/15/0521/16/AQ5F6AHH001668B4.html)
+  * [kickstarter](https://www.kickstarter.com/projects/403524037/autonomous-desk-the-smartest-office-desk-yet-power)
+  * [媒体报道：全新办公体验](http://digi.163.com/15/0521/16/AQ5F6AHH001668B4.html)
 * LIFT PRO（众筹中… $999，2015年9月出货）
   * [indiegogo](https://www.indiegogo.com/projects/lift-pro-quite-possibly-the-best-electric-desk)
   * [媒体报道：多功能智能办公桌](http://www.hitnology.com/video-377.html)  
