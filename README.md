@@ -213,6 +213,7 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 * [Sprite 无人机](http://www.ifanr.com/524707)：“蜻蜓式”驴友无人机。通过可佩戴的追踪器返回。
 * [Zano 无人机](http://www.ifanr.com/472892)：最小的拍照无人机。
 * [大疆无人机](http://www.dji.com/cn)：国产最牛无人机。
+* [Micro Drone - 当无人机遇上VR，真的带你装逼带你飞](http://www.leiphone.com/news/201506/oez99YY5MoMF48Ke.html)，[indiegogo](https://www.indiegogo.com/projects/micro-drone-3-0-flight-in-the-palm-of-your-hand--2#/story)
 * [比GPS更准，新型无人机导航系统问世](http://www.leiphone.com/news/201505/fJxLEvFRqAGarWsV.html)：通过预制卫星地图及视觉识别技术。
 
 ### 工业控制
