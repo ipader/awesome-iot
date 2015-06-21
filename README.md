@@ -190,7 +190,7 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
   * 媒体报道
     * [全新办公体验](http://digi.163.com/15/0521/16/AQ5F6AHH001668B4.html)
     * [智能家居？我要智能办公室！](http://www.leiphone.com/news/201506/96RvmqtLn6OPaDpC.html)
-* LIFT PRO（众筹中… $999，）
+* LIFT PRO
   * [indiegogo](https://www.indiegogo.com/projects/lift-pro-quite-possibly-the-best-electric-desk)
   * 价格：$999+
   * 上市日期： 2015年9月出货
