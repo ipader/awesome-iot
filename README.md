@@ -178,17 +178,22 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
   * [Nest 推出了一个强大的智能安全摄像头，但是大部分人可能只买得起它的“国产”版](http://www.pingwest.com/what-is-the-next-big-thing-of-nest/)
 
 #### 3. 智能桌
-* Stir M1 (奢侈级，$2999)
+* Stir M1
   * [详细介绍及参数](http://www.stirworks.com/stir-kinetic-desk-m1/)
+  * 价格：$2999+
   * [媒体报道：更轻巧，更贴心，更便宜](http://www.7huoxing.com/?p=7709)
 * [Autonomous](https://www.autonomous.ai/)
   * [kickstarter ERGO: World's First Smart Standing Desk That Talks & Listens](https://www.kickstarter.com/projects/403524037/autonomous-desk-the-smartest-office-desk-yet-power)
   * [indiegogo ERGO: World's First Smart Standing Desk That Talks](https://www.indiegogo.com/projects/ergo-world-s-first-smart-standing-desk-that-talks)
+  * 价格：$399 ~ $499+
+  * 上市日期： 2015年7月出货
   * 媒体报道
     * [全新办公体验](http://digi.163.com/15/0521/16/AQ5F6AHH001668B4.html)
     * [智能家居？我要智能办公室！](http://www.leiphone.com/news/201506/96RvmqtLn6OPaDpC.html)
-* LIFT PRO（众筹中… $999，2015年9月出货）
+* LIFT PRO（众筹中… $999，）
   * [indiegogo](https://www.indiegogo.com/projects/lift-pro-quite-possibly-the-best-electric-desk)
+  * 价格：$999+
+  * 上市日期： 2015年9月出货
   * [媒体报道：多功能智能办公桌](http://www.hitnology.com/video-377.html)  
 * 相关配件
   * [suspa - 电动高度调节系统](http://www.suspa.com/index.php?id=4144)
