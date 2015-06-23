@@ -179,7 +179,9 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
   * [爱耳目智能摄像机](http://www.iermu.com/)
   * [Nest 推出了一个强大的智能安全摄像头，但是大部分人可能只买得起它的“国产”版](http://www.pingwest.com/what-is-the-next-big-thing-of-nest/)
 
-#### 3. 智能桌
+#### <a id="desk"></a>3. 智能桌
+>带来惬意学习的环境的居家环境是书房，直接提供舒适学习体验的则是书桌。当前的智能办公/书桌已经达到了什么样功能。感兴趣的同学看看以下产品。
+
 * [Stir M1](http://www.stirworks.com/stir-kinetic-desk-m1/)
   * 价格：$2999+
   * [媒体报道：更轻巧，更贴心，更便宜](http://www.7huoxing.com/?p=7709)
