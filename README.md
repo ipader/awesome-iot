@@ -222,7 +222,7 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 	* [耳朵上的智能穿戴 Here，能把声音变成玩具](http://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&mid=219432275&idx=1&sn=d66771a42a4f868290bc4c657113c956&key=c468684b929d2be2139d58db46b5a7fd480e47b1f1a9c47caf41ba753cc2b4f638c564b374b152ccc59017749ce067bd&ascene=0&uin=MTYxMDU2MzQ4MQ%3D%3D)，[kickstarter](https://www.kickstarter.com/projects/dopplerlabs/here-active-listening-change-the-way-you-hear-the)	 
 
 ### 无人机
-> 无人机有着无比远大想象空间，也是蠢蠢欲动的梦想家们向往的领域。目前无人机最大的应用领域大概就是摄像机（包含仍有处于起步阶段的智能随动摄像机），这也是相对清楚看到其发展未来的消费领域。还有几年前就大张旗鼓发展的无人机快递，当然，这涉及空间领域权限及规则的制定，或许还有较长的路要走。
+> 无人机极具想象空间，也是蠢蠢欲动的梦想家们向往的领域。当前最大的应用领域大概是摄像机，这也是能相对清楚看到其未来发展的消费领域；还有自然是快递领域，可惜涉及空间领域使用权限及规则的制定，或许还有较长的路要走。
 
 * [大疆无人机](http://www.dji.com/cn)：国产最牛无人机
 	* [航拍还不够，大疆想把无人机与虚拟现实结合起来](http://www.ifanr.com/531698) 
