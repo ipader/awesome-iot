@@ -28,6 +28,8 @@ Samsung|[ARTIK](https://www.artik.io)|[Nucleus](http://www.mentor.com/embedded-s
 	* [Raspbian：世界上“最小的”操作系统是怎样炼成的？](http://www.pingwest.com/building-the-raspbian-os/)
 	* [专访树莓派创始人 Eben Upton：坚持 35 美元不动摇](http://www.ifanr.com/442783)
 	* [能搭载 windows 10 的树莓派](http://www.ifanr.com/489504) 
+	* [Raspberry PI Jasper安装,Raspberry PI语音控制](http://www.phodal.com/blog/raspberry-pi-install-jasper/)
+	* [用树莓派 + Python 和 OpenCV 检测和跟踪运动对象（上）](http://python.jobbole.com/81593/)，[（下）](http://python.jobbole.com/81645/)
 * [ARM mbed](https://mbed.org/)
 	* [GitHub：mbedmicro/mbed](https://github.com/mbedmicro/mbed)
 	* [mbed 快速入门](http://mbed.smeshlink.com/guide)
@@ -130,7 +132,8 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 * [Eclipse IoT](http://iot.eclipse.org/)
 	* [2013 年度 Eclipse M2M 现状](http://www.infoq.com/cn/news/2013/11/eclipse-m2m)
 	* [2014 年度 Eclipse 社区报告](http://www.oschina.net/translate/2014-annual-eclipse-community-report)
-
+* 相关文档
+	* [物联网的真正关键：IoT Open Architecture](http://www.ctimes.com.tw/DispCols-cn.asp?o=1505071535QS)
 
 ### 创客社区
 * [@SeeedStudio](http://weibo.com/seeedstudio)
@@ -217,9 +220,14 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
   * [室内定位的前景如何，国内是否有与之相关的创业公司？](http://www.zhihu.com/question/20485136)
   * [iBeacon定位与Wi-Fi定位相比，在准确度、建设成本、应用开发容易程度上有什么差异？iBeacon在国内有无案例？](http://www.zhihu.com/question/24092917)
 	
+### 智能骑行
+* [小牛电动](http://niu.com)
+* [启孜－自行车](http://www.bi-ci.com/qizi)
+
 ### 智能穿戴
 * 智能耳机
-	* [耳朵上的智能穿戴 Here，能把声音变成玩具](http://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&mid=219432275&idx=1&sn=d66771a42a4f868290bc4c657113c956&key=c468684b929d2be2139d58db46b5a7fd480e47b1f1a9c47caf41ba753cc2b4f638c564b374b152ccc59017749ce067bd&ascene=0&uin=MTYxMDU2MzQ4MQ%3D%3D)，[kickstarter](https://www.kickstarter.com/projects/dopplerlabs/here-active-listening-change-the-way-you-hear-the)	 
+	* [耳朵上的智能穿戴 Here，能把声音变成玩具](http://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&mid=219432275&idx=1&sn=d66771a42a4f868290bc4c657113c956&key=c468684b929d2be2139d58db46b5a7fd480e47b1f1a9c47caf41ba753cc2b4f638c564b374b152ccc59017749ce067bd&ascene=0&uin=MTYxMDU2MzQ4MQ%3D%3D)，[kickstarter](https://www.kickstarter.com/projects/dopplerlabs/here-active-listening-change-the-way-you-hear-the)
+
 
 ### <a id="uav"></a>无人机
 > 无人机极具想象空间，也是蠢蠢欲动的梦想家们向往的领域。当前最大的应用领域大概是摄像机，这也是能相对清楚看到其未来发展的消费领域；还有自然是快递领域，可惜涉及空间使用权限及规则的制定，其大规模应用或许还有较长的路要走。
@@ -276,6 +284,7 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 	* [GE首发新的基于OPC - UA标准的“全球发现服务器（GDS）”](http://www.ca800.com/news/d_1ntn74138k5d1.html)
 	 
 ### 行业动态
+* [InfoQ 物联网技术周报](http://www.infoq.com/cn/adf)
 * [Google 正在开发物联网系统 Brillo](http://www.ifanr.com/523481)
 * [富士康布局传感器](http://36kr.com/p/533169.html)
 * [腾讯人脸识别](http://www.leiphone.com/news/201505/ViZ5mGak3mjd28v2.html)
