@@ -110,7 +110,7 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 * [RoboPeak](http://www.robopeak.com/)
 	* [激光雷达RPLidar，成本仅为工业级产品的十分之一](http://36kr.com/p/211924.html)
 	* [RoboPeak 从团队到公司跨越](http://www.ifanr.com/295248)
-
+* [Open Hybrid](http://www.openhybrid.org/index.html)：“一个针对于物理计算与物联网的开源增强现实平台，它基于Web与Arduino。”
 
 ### 编程环境
 * [NodeJs](http://nodejs.org)
@@ -119,6 +119,8 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 	* [GitHub](https://github.com/hybridgroup/cylon/)
 * [JohnnyFive](http://johnny-five.io/)：基于 Arduino Firmata 协议的 NodeJs 开发库
 	* [GitHub](https://github.com/rwaldron/johnny-five) 
+* [JerryScript](http://samsung.github.io/jerryscript/)：专为 IoT 的轻量级 Javascript 引擎
+	* [GitHub](https://github.com/Samsung/jerryscript) 
 * [Arduino](http://www.arduino.cc/en/Main/Software)
 	* [Getting Started](http://www.arduino.cc/en/Guide/HomePage)
 	* [GitHub: Arduino](https://github.com/arduino/Arduino)
@@ -126,6 +128,7 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 	* [Arduino Experimenter's Guide for NodeJS](http://node-ardx.org/)
 	* [Firmata 解析](http://blog.csdn.net/changesway/article/details/5503099) 
 	* [CylonJS for Arduino](http://cylonjs.com/documentation/platforms/arduino/)
+	* [codebender.cc](https://codebender.cc/)：在线 arduino IDE
 * [Kinoma Studio](http://kinoma.com/studio/)
 * [Particle](https://www.particle.io/dev)
 	* [Gettting Started](http://docs.particle.io/photon/start/)
@@ -162,14 +165,27 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
   * [可堆叠的创意 开源硬件 Microduino 开发团队专访](http://www.csdn.net/article/1970-01-01/2816170)
 
 ### 智能家居
-#### 1. 集成商
-* [海尔](http://www.haier.com/cn/business/Uhome/)
+#### 1. 平台商
+* 苹果
+	* [HomeKit](https://developer.apple.com/homekit/)
+	* [在线零售](http://store.apple.com/cn/accessories/all-accessories/connected-home)
 * [小米](http://home.mi.com/)
 	* [开发合作者平台](http://open.home.mi.com/index.html#/intro)
-* [奇酷](http://www.qikoo.com/)
-* [中兴](http://www.ztehome.com.cn/)
-* [庆科](http://www.mxchip.com/)
+	* [在线零售](http://list.mi.com/26)
+	* 媒体报道
+		* [关于智能家居平台，小米回答了这 5 个问题](http://www.ifanr.com/545101)
+* [360](http://home.360.cn/)
+	* [开发合作者平台](http://open.home.360.cn/)
+	* [在线零售](http://www.qikoo.com/)
+* [庆科](http://mxchip.com/)
+	* [MiCO](http://mico.io/)：“MiCO是一款基于32位微控制器（MCU）、满足IoT应用特点的物联网操作系统。” 
+	* [FogCloud](http://www.fogcloud.io/)：“FogCloud为开发者提供便捷的智能硬件接入服务，真正实现敏捷开发，快速迭代。”
+
+#### 1. 集成商
 * [Nest](https://nest.com/)
+* [海尔](http://www.haier.com/cn/business/Uhome/)
+* [中兴](http://www.ztehome.com.cn/)
+* [broadlink](http://www.broadlink.com.cn/)
 
 #### 2. 智能摄像
 >智能摄像目前是智能家居领域进驻厂商最多的，竟争也最为白热化（定价迥异）。目标用户通常是亲情关怀及室内、外监控（把玩）。
@@ -214,8 +230,13 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 #### 4. 智能锁
   * [Noki：kickstarter](https://www.kickstarter.com/projects/1227497591/noki-the-smart-doorlock-for-europe)
   * [Noki：你还在担心门没锁？](http://www.leiphone.com/news/201505/VjV2wiuDFrGJxcIe.html)
-
-#### 5. 室内定位
+  
+#### 5. 智能开关
+  * [Gecko Switch](http://www.geckoswitch.com/)
+    * [kickstarter](https://www.kickstarter.com/projects/121630918/gecko-switch-your-movable-light-switch)
+    * [丧心病狂？一个开关想颠覆整个智能家居](http://www.leiphone.com/news/201507/mj7uHI8YmNvq2HTG.html)
+  
+#### 6. 室内定位
   *	[室内定位技术的前世今生](http://36kr.com/p/204953.html)
   * [室内定位的前景如何，国内是否有与之相关的创业公司？](http://www.zhihu.com/question/20485136)
   * [iBeacon定位与Wi-Fi定位相比，在准确度、建设成本、应用开发容易程度上有什么差异？iBeacon在国内有无案例？](http://www.zhihu.com/question/24092917)
@@ -282,9 +303,23 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 	* [NI - OPC Server](http://sine.ni.com/nips/cds/view/p/lang/zhs/nid/209059)
 	* [OPC-UA进入嵌入式新阶段](http://article.cechina.cn/15/0324/04/20150324041119.htm)
 	* [GE首发新的基于OPC - UA标准的“全球发现服务器（GDS）”](http://www.ca800.com/news/d_1ntn74138k5d1.html)
+* 机械臂
+	* [7Bot](7bot.cc) 
+		* [买个机械臂还要自己写编码？你应该让它自己来学习](http://www.ifanr.com/576174)
+	
+### 相关产品
+* [Remix Mini](http://www.jide.com/index?)
+	* [kickstarter](https://www.kickstarter.com/projects/1123481999/remix-mini-the-worlds-first-true-android-pc)
+	* [以 PC 之名，一个国产 Android 小盒子竟创众筹记录](http://www.ifanr.com/545311)
+	* [Remix OS](http://www.jide.com/remixos)
+* [兰桂智能管家](http://www.cassianetworks.com/cn/products/hub/)：蓝牙路由器
+	* [他认为物联网的通讯标准是蓝牙，于是做了一款传输距离300米远的蓝牙路由器](http://36kr.com/p/5035772.html)
 	 
 ### 行业动态
 * [InfoQ 物联网技术周报](http://www.infoq.com/cn/adf)
+* [编程要从娃娃做起，于是 BBC 要给 100 万名儿童免费提供给微型电脑](http://www.ifanr.com/538427)
+* [Zero UI：当界面摆脱了屏幕的束缚](http://www.ifanr.com/537092)
+* [RealSense（实感）技术，英特尔想做什么？](http://www.leiphone.com/news/201507/AgQzzehYtoqbWZO3.html)
 * [Google 正在开发物联网系统 Brillo](http://www.ifanr.com/523481)
 * [富士康布局传感器](http://36kr.com/p/533169.html)
 * [腾讯人脸识别](http://www.leiphone.com/news/201505/ViZ5mGak3mjd28v2.html)
