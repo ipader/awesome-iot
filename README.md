@@ -169,6 +169,8 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 * 苹果
 	* [HomeKit](https://developer.apple.com/homekit/)
 	* [在线零售](http://store.apple.com/cn/accessories/all-accessories/connected-home)
+* 亚马逊
+	* [AWS IoT](https://aws.amazon.com/cn/iot/)
 * [小米](http://home.mi.com/)
 	* [开发合作者平台](http://open.home.mi.com/index.html#/intro)
 	* [在线零售](http://list.mi.com/26)
@@ -246,9 +248,13 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 * [启孜－自行车](http://www.bi-ci.com/qizi)
 
 ### 智能穿戴
+* 智能手表
+	* [ticwear](https://github.com/ticwear/sdk) ：开源项目
 * 智能耳机
 	* [耳朵上的智能穿戴 Here，能把声音变成玩具](http://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&mid=219432275&idx=1&sn=d66771a42a4f868290bc4c657113c956&key=c468684b929d2be2139d58db46b5a7fd480e47b1f1a9c47caf41ba753cc2b4f638c564b374b152ccc59017749ce067bd&ascene=0&uin=MTYxMDU2MzQ4MQ%3D%3D)，[kickstarter](https://www.kickstarter.com/projects/dopplerlabs/here-active-listening-change-the-way-you-hear-the)
 
+* [生活号](186life.com)
+	* [媒体文章](https://knewone.com/things/shuang-xiang-hao) 
 
 ### <a id="uav"></a>无人机
 > 无人机极具想象空间，也是蠢蠢欲动的梦想家们向往的领域。当前最大的应用领域大概是摄像机，这也是能相对清楚看到其未来发展的消费领域；还有自然是快递领域，可惜涉及空间使用权限及规则的制定，其大规模应用或许还有较长的路要走。
@@ -262,7 +268,7 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 	* [Sprite 无人机竟然是个竹蜻蜓](http://www.ifanr.com/524707)
 * [3DR Solo](http://3drobotics.com/solo-drone/)：设定飞行轨迹后自己飞
 	* [可以自己飞的智能无人机，你只用负责对焦](http://mt.sohu.com/20150414/n411274751.shtml) 
-* [Zano](http://www.flyzano.com/)：最小的拍照无人机
+* [Zano](http://www.flyzano.com/)：最小的拍照无人机 （项目已失败）
 	* [kickstarter](https://www.kickstarter.com/projects/torquing/zano-autonomous-intelligent-swarming-nano-drone)
 	* [让自拍党“剁手”的神器](http://www.ifanr.com/472892)
 * [Micro Drone](www.microdrones.com/)
@@ -306,6 +312,9 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 * 机械臂
 	* [7Bot](7bot.cc) 
 		* [买个机械臂还要自己写编码？你应该让它自己来学习](http://www.ifanr.com/576174)
+
+### 人工智能
+* [Project Oxford](https://www.projectoxford.ai/)：开放支持人脸、视觉、视频、声音识别。
 	
 ### 相关产品
 * [Remix Mini](http://www.jide.com/index?)
