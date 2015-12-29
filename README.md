@@ -138,6 +138,9 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 * 相关文档
 	* [物联网的真正关键：IoT Open Architecture](http://www.ctimes.com.tw/DispCols-cn.asp?o=1505071535QS)
 
+### 协议
+* [MGTT](http://mqtt.org/)：MQTT 是一种轻量级的发布/订阅协议，旨在最大限度地降低网络带宽和设备资源要求。此外，MQTT 还支持使用 TLS 进行安全通信。MQTT 常用在 IoT 用例中。MQTT v3.1.1 是一种 OASIS 标准，AWS IoT 设备网关支持大部分 MQTT 规范。[更多...](http://www.infoq.com/cn/news/2014/12/mqtt-ibm-iot)	
+
 ### 创客社区
 * [@SeeedStudio](http://weibo.com/seeedstudio)
 * [@DFRobot](http://weibo.com/dfrobot)
@@ -314,7 +317,14 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 		* [买个机械臂还要自己写编码？你应该让它自己来学习](http://www.ifanr.com/576174)
 
 ### 人工智能
-* [Project Oxford](https://www.projectoxford.ai/)：开放支持人脸、视觉、视频、声音识别。
+* 微软
+	* [Project Oxford](https://www.projectoxford.ai/)：开放支持人脸、视觉、视频、声音识别。
+	* [DMTK](https://github.com/Microsoft/DMTK)：机器学习库
+* Google
+	* [TensorFlow](http://tensorflow.org/)：机器学习库
+* Facebook
+	* [torch](http://torch.ch/)：“一个支持大量机器学习算法的科学计算框架。”
+
 	
 ### 相关产品
 * [Remix Mini](http://www.jide.com/index?)
