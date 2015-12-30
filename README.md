@@ -17,7 +17,7 @@ Samsung|[ARTIK](https://www.artik.io)|[Nucleus](http://www.mentor.com/embedded-s
 [mbientlab](https://mbientlab.com)|[MetaWear](https://mbientlab.com/metawear/)|MetaWear OS|Xcode/Android Studio|Objetive-C/Java|Bluetooth|[入门](https://mbientlab.com/gettingstarted/)|可穿戴微芯片
 [WRTnode](http://cn.wrtnode.com/w/)|[WRTnode](http://cn.wrtnode.com/sale.html)|[OpenWrt](https://openwrt.org/)|[Eclipse C/C++ IDE ](http://www.eclipse.org/downloads/packages/eclipse-ide-cc-developers/keplersr2)|C/C++|TCP/IP|[入门](http://wiki.wrtnode.com/index.php?title=Main_Page/zh-cn)|最小Linux开发板
 [NodeMCU](http://www.nodemcu.com/index_cn.html)|[NodeMCU](https://github.com/nodemcu/nodemcu-firmware)|[eLua](http://www.eluaproject.net/)|[eLua IDE](https://github.com/nuraci/Goat-IDE)|Lua|[XMODEM](http://en.wikipedia.org/wiki/XMODEM)|[文档](http://wiki.wrtnode.com/index.php?title=Main_Page/zh-cn)|基于 Lua 语言开发板
-
+[RAYSHOBBY](http://rayshobby.net/)|[SquareWear](http://rayshobby.net/sqrwear/)|RTOS|Arduino IDE|C/C++|Firmata|
 
 ### 开发平台
 * [Arduino](http://www.arduino.cc/)
@@ -111,6 +111,8 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 	* [激光雷达RPLidar，成本仅为工业级产品的十分之一](http://36kr.com/p/211924.html)
 	* [RoboPeak 从团队到公司跨越](http://www.ifanr.com/295248)
 * [Open Hybrid](http://www.openhybrid.org/index.html)：“一个针对于物理计算与物联网的开源增强现实平台，它基于Web与Arduino。”
+* [Macchina.io](http://macchina.io/)：运行于Raspberry Pi, Beaglebone 或者 RED brick 等基于 Linux 系统的开发板。编程环境：Javascript 或 C++
+* [GeoThings](http://geothings.io/)：野外作业 Arduino 开发板。配备 GPS、Mobile、SD、太阳能，云支持。
 
 ### 编程环境
 * [NodeJs](http://nodejs.org)
@@ -132,9 +134,14 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 * [Kinoma Studio](http://kinoma.com/studio/)
 * [Particle](https://www.particle.io/dev)
 	* [Gettting Started](http://docs.particle.io/photon/start/)
+	* Web IDE
 * [Eclipse IoT](http://iot.eclipse.org/)
 	* [2013 年度 Eclipse M2M 现状](http://www.infoq.com/cn/news/2013/11/eclipse-m2m)
 	* [2014 年度 Eclipse 社区报告](http://www.oschina.net/translate/2014-annual-eclipse-community-report)
+* [Mongoose](https://github.com/cesanta/mongoose): 嵌入式 Web 服务器。支持MQTT、CoAP、Websocket、HTTP等物联网相关协议。 
+* [meshblu](https://github.com/octoblu/meshblu)：M2M 即时通信平台
+* [Smart.js](https://www.cesanta.com/)：硬件无关地全栈物联网软件平台。
+* [IoT.js](https://github.com/Samsung/iotjs)：三星轻量级面向物联网 JavaScript 框架。基于 [JerryScript](http://samsung.github.io/jerryscript/) 引擎
 * 相关文档
 	* [物联网的真正关键：IoT Open Architecture](http://www.ctimes.com.tw/DispCols-cn.asp?o=1505071535QS)
 
@@ -185,6 +192,7 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 * [庆科](http://mxchip.com/)
 	* [MiCO](http://mico.io/)：“MiCO是一款基于32位微控制器（MCU）、满足IoT应用特点的物联网操作系统。” 
 	* [FogCloud](http://www.fogcloud.io/)：“FogCloud为开发者提供便捷的智能硬件接入服务，真正实现敏捷开发，快速迭代。”
+* [heimcontrol.js](https://github.com/ni-c/heimcontrol.js)：家庭自动化开源软件。基于 Node.js、MongoDB、HTML5、Websockets，运行于 Raspberry Pi、Arduino
 
 #### 1. 集成商
 * [Nest](https://nest.com/)
@@ -253,6 +261,7 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 ### 智能穿戴
 * 智能手表
 	* [ticwear](https://github.com/ticwear/sdk) ：开源项目
+	* [Meta Watch Gen2](https://github.com/MetaWatchOpenProjects/MetaWatch-Gen2)
 * 智能耳机
 	* [耳朵上的智能穿戴 Here，能把声音变成玩具](http://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&mid=219432275&idx=1&sn=d66771a42a4f868290bc4c657113c956&key=c468684b929d2be2139d58db46b5a7fd480e47b1f1a9c47caf41ba753cc2b4f638c564b374b152ccc59017749ce067bd&ascene=0&uin=MTYxMDU2MzQ4MQ%3D%3D)，[kickstarter](https://www.kickstarter.com/projects/dopplerlabs/here-active-listening-change-the-way-you-hear-the)
 
@@ -306,6 +315,8 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 		* [B-Scada](http://scada.com/)
 		* [力控科技 － SCADA](http://www.sunwayland.com/index_c_nei/78.html)
 		* [亚控科技 － 组态王](http://www.kingview.com/kingview/kingview.html)
+		* [Hightopo](http://www.hightopo.com/)
+			* [基于 HTML5 的 Web SCADA 工控移动应用](http://segmentfault.com/a/1190000004215173) 
 * [OPC UA](https://opcfoundation.org/about/opc-technologies/opc-ua/)
 	* [Open OPC UA](http://www.openopcua.org/)
 	* [开源 OPC UA 列表](https://github.com/acplt/open62541/wiki/List-of-Open-Source-OPC-UA-Implementations)
@@ -324,7 +335,8 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 	* [TensorFlow](http://tensorflow.org/)：机器学习库
 * Facebook
 	* [torch](http://torch.ch/)：“一个支持大量机器学习算法的科学计算框架。”
-
+* 语音识别
+	* [Nuance Mix](https://developer.nuance.com/public/index.php?task=mix)：相关[中文介绍](http://www.infoq.com/cn/news/2015/12/Nuance-Mix) 
 	
 ### 相关产品
 * [Remix Mini](http://www.jide.com/index?)
