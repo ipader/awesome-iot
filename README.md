@@ -326,6 +326,11 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 * 机械臂
 	* [7Bot](7bot.cc) 
 		* [买个机械臂还要自己写编码？你应该让它自己来学习](http://www.ifanr.com/576174)
+* [FPGA（Field－Programmable Gate Array）](https://zh.wikipedia.org/wiki/现场可编程逻辑门阵列)：现场可编程逻辑门阵列
+	* [Xilinx](http://www.xilinx.com/)：FPGA 芯片的主要生产商。 
+		* [Vivado High-Level Synthesis](http://www.xilinx.com/products/design-tools/vivado/integration/esl-design.html): HLS, OpenCV 等高级接口调用 
+	* [VHDL（Very-High-Speed Integrated Circuit Hardware Description Language）](https://zh.wikipedia.org/wiki/VHDL)：超高速集成电路（VHSIC）硬件描述语言（HDL）。
+	* [NI Single-board RIO](http://sine.ni.com/nips/cds/view/p/lang/zhs/nid/212788)：图形化开发平台，无需掌握 HDL。采用 NI CompactRIO 相同硬件架构。
 
 ### 人工智能
 * 微软
@@ -339,10 +344,13 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 	* [Nuance Mix](https://developer.nuance.com/public/index.php?task=mix)：相关[中文介绍](http://www.infoq.com/cn/news/2015/12/Nuance-Mix) 
 	
 ### 相关产品
-* [Remix Mini](http://www.jide.com/index?)
-	* [kickstarter](https://www.kickstarter.com/projects/1123481999/remix-mini-the-worlds-first-true-android-pc)
-	* [以 PC 之名，一个国产 Android 小盒子竟创众筹记录](http://www.ifanr.com/545311)
-	* [Remix OS](http://www.jide.com/remixos)
+* Android 衍生 
+	* [Cyanogen OS](https://cyngn.com/)：试图脱离谷歌生态的原生 Android OS
+		* [媒体报道：脱离谷歌 Cyanogen说出了手机厂商的心里话](http://tech.163.com/15/0325/09/ALHS4870000915BD.html) 
+	* [Remix Mini](http://www.jide.com/index?)
+		* [kickstarter](https://www.kickstarter.com/projects/1123481999/remix-mini-the-worlds-first-true-android-pc)
+		* [以 PC 之名，一个国产 Android 小盒子竟创众筹记录](http://www.ifanr.com/545311)
+		* [Remix OS](http://www.jide.com/remixos)
 * [兰桂智能管家](http://www.cassianetworks.com/cn/products/hub/)：蓝牙路由器
 	* [他认为物联网的通讯标准是蓝牙，于是做了一款传输距离300米远的蓝牙路由器](http://36kr.com/p/5035772.html)
 	 
