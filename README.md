@@ -18,6 +18,7 @@ Samsung|[ARTIK](https://www.artik.io)|[Nucleus](http://www.mentor.com/embedded-s
 [WRTnode](http://cn.wrtnode.com/w/)|[WRTnode](http://cn.wrtnode.com/sale.html)|[OpenWrt](https://openwrt.org/)|[Eclipse C/C++ IDE ](http://www.eclipse.org/downloads/packages/eclipse-ide-cc-developers/keplersr2)|C/C++|TCP/IP|[入门](http://wiki.wrtnode.com/index.php?title=Main_Page/zh-cn)|最小Linux开发板
 [NodeMCU](http://www.nodemcu.com/index_cn.html)|[NodeMCU](https://github.com/nodemcu/nodemcu-firmware)|[eLua](http://www.eluaproject.net/)|[eLua IDE](https://github.com/nuraci/Goat-IDE)|Lua|[XMODEM](http://en.wikipedia.org/wiki/XMODEM)|[文档](http://wiki.wrtnode.com/index.php?title=Main_Page/zh-cn)|基于 Lua 语言开发板
 [RAYSHOBBY](http://rayshobby.net/)|[SquareWear](http://rayshobby.net/sqrwear/)|RTOS|Arduino IDE|C/C++|Firmata|
+[Damien George](http://dpgeorge.net/)|[MicroPython](http://micropython.org/)|[Python 3](https://www.python.org/)|[Python IDEs](https://wiki.python.org/moin/IntegratedDevelopmentEnvironments)|Python 3||[文档](http://docs.micropython.org/en/latest/)|
 
 ### 开发平台
 * [Arduino](http://www.arduino.cc/)
@@ -283,6 +284,9 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 * [Zano](http://www.flyzano.com/)：最小的拍照无人机 （项目已失败）
 	* [kickstarter](https://www.kickstarter.com/projects/torquing/zano-autonomous-intelligent-swarming-nano-drone)
 	* [让自拍党“剁手”的神器](http://www.ifanr.com/472892)
+* [Onagofly](http://www.onagofly.com/)
+	* [indiegogo](https://www.indiegogo.com/projects/onagofly-the-smart-nano-drone--2) 
+	* [小到不用登记的自拍无人机](http://techcrunch.cn/2016/02/02/a-tiny-selfie-drone-you-dont-need-to-register-with-the-faa/)：仅 140g，GPS + 1500万高清摄像头
 * [Micro Drone](www.microdrones.com/)
 	* [indiegogo](http://www.indiegogo.com/projects/micro-drone-3-0-flight-in-the-palm-of-your-hand--2)
 	* [当无人机遇上VR，真的带你装逼带你飞](http://www.leiphone.com/news/201506/oez99YY5MoMF48Ke.html)
