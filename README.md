@@ -240,6 +240,7 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 * 相关报道
   * [脑洞大开的桌子](http://www.ifanr.com/520408)：宜家厨房桌、办公桌（Stir, Autonomous）等介绍及视频
   * [智能会议桌：捕捉谈话人员声音告别会议记录]( http://tech.sina.com.cn/q/tech/2015-05-14/doc-icpkqeaz4162345.shtml)
+  * [这把办公椅能自动归位](http://www.ifanr.com/620289)
 
 #### 4. 智能锁
   * [Noki：kickstarter](https://www.kickstarter.com/projects/1227497591/noki-the-smart-doorlock-for-europe)
@@ -378,6 +379,10 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 * [Siri 终于到你家了 ：简便科技生活从此开启](http://www.feng.com/apple/news/2015-06-02/For-one-year-Forward-to-the-first-paragraph-HomeKit-product-listed-finally_615644.shtml)
 * [李一男牛电科技发布智能电动踏板车“小牛 N1”](http://techcrunch.cn/2015/06/01/xiaoniu-n1/?ncid=rss)
 * [物联网时代的35款开源工具](http://os.51cto.com/art/201409/451092.htm)
+* [从 10 米到 1 米，GPS 定位精度将迎来飞跃？](http://www.ifanr.com/619494)
+* [OpenCV进阶之路：神经网络识别车牌字符](http://www.cnblogs.com/ronny/p/opencv_road_more_01.html)
+* [也许智能家居还是需要一个“大脑”](http://www.ifanr.com/622842)：
+* [2016全球最具影响力的50家机器人公司](http://www.almosthuman.cn/2016/02/19/g7wan/)
 
 ### 观点评论
 * [智能家居中心论与平台观的破产](http://www.leikeji.com/article?675) By 陶军宝 from [@欧瑞博智能家居](http://weibo.com/oruibo)
