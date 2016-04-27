@@ -24,6 +24,8 @@ Samsung|[ARTIK](https://www.artik.io)|[Nucleus](http://www.mentor.com/embedded-s
 * [Arduino](http://www.arduino.cc/)
 	* [Products](http://www.arduino.cc/en/Main/Products)
 	* [NodeJs on Arduino Yun](http://www.appsaloon.be/blog/node-js-arduino-yun/)
+	* [MOVI：Arduino 平台的语音控制和语音合成的扩展板](https://www.kickstarter.com/projects/310865303/movi-a-standalone-speech-recognizer-shield-for-ard)
+	* [DIY-Thermocam：Arduino 平台基于FLIR Lepton热阵列传感器的开源的热成像摄像机](http://www.diy-thermocam.net/)
 * [Raspberry Pi](https://www.raspberrypi.org/)
 	* [Getting Started](https://www.raspberrypi.org/resources/learn/)
 	* [Raspbian：世界上“最小的”操作系统是怎样炼成的？](http://www.pingwest.com/building-the-raspbian-os/)
@@ -31,6 +33,8 @@ Samsung|[ARTIK](https://www.artik.io)|[Nucleus](http://www.mentor.com/embedded-s
 	* [能搭载 windows 10 的树莓派](http://www.ifanr.com/489504) 
 	* [Raspberry PI Jasper安装,Raspberry PI语音控制](http://www.phodal.com/blog/raspberry-pi-install-jasper/)
 	* [用树莓派 + Python 和 OpenCV 检测和跟踪运动对象（上）](http://python.jobbole.com/81593/)，[（下）](http://python.jobbole.com/81645/)
+	* [IoT HAT for Raspberry Pi](https://www.kickstarter.com/projects/1991736672/iot-hat-for-raspberry-pi-a-must-have-for-pi-zero)：为 Pi Zero(或早期版本) 提供 Wifi 和蓝牙通讯能力扩展版。
+	* [rpi-gpio.js](https://github.com/JamesBarwell/rpi-gpio.js)：用Nodejs 控制 Raspberry Pi GPIO 引脚库。
 * [ARM mbed](https://mbed.org/)
 	* [GitHub：mbedmicro/mbed](https://github.com/mbedmicro/mbed)
 	* [mbed 快速入门](http://mbed.smeshlink.com/guide)
@@ -114,12 +118,14 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 * [Open Hybrid](http://www.openhybrid.org/index.html)：“一个针对于物理计算与物联网的开源增强现实平台，它基于Web与Arduino。”
 * [Macchina.io](http://macchina.io/)：运行于Raspberry Pi, Beaglebone 或者 RED brick 等基于 Linux 系统的开发板。编程环境：Javascript 或 C++
 * [GeoThings](http://geothings.io/)：野外作业 Arduino 开发板。配备 GPS、Mobile、SD、太阳能，云支持。
+* [Ruff](https://ruff.io/zh-cn/)：JavaScript 开发硬件 By [@Roy厉](http://weibo.com/seabus)
 
 ### 编程环境
 * [NodeJs](http://nodejs.org)
 	* [Getting Started](https://cnodejs.org/getstart) 
 * [CylonJS](http://cylonjs.com)：提供 36 硬件平台开发支持 
 	* [GitHub](https://github.com/hybridgroup/cylon/)
+	* [cylon-intel-iot](https://github.com/hybridgroup/cylon-intel-iot)：“是一个面向Intel Edison和Intel Galileo开发板的Clyon.js的适配器”
 * [JohnnyFive](http://johnny-five.io/)：基于 Arduino Firmata 协议的 NodeJs 开发库
 	* [GitHub](https://github.com/rwaldron/johnny-five) 
 * [JerryScript](http://samsung.github.io/jerryscript/)：专为 IoT 的轻量级 Javascript 引擎
@@ -147,7 +153,8 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 	* [物联网的真正关键：IoT Open Architecture](http://www.ctimes.com.tw/DispCols-cn.asp?o=1505071535QS)
 
 ### 协议
-* [MGTT](http://mqtt.org/)：MQTT 是一种轻量级的发布/订阅协议，旨在最大限度地降低网络带宽和设备资源要求。此外，MQTT 还支持使用 TLS 进行安全通信。MQTT 常用在 IoT 用例中。MQTT v3.1.1 是一种 OASIS 标准，AWS IoT 设备网关支持大部分 MQTT 规范。[更多...](http://www.infoq.com/cn/news/2014/12/mqtt-ibm-iot)	
+* [MGTT](http://mqtt.org/)：MQTT 是一种轻量级的发布/订阅协议，旨在最大限度地降低网络带宽和设备资源要求。此外，MQTT 还支持使用 TLS 进行安全通信。MQTT 常用在 IoT 用例中。MQTT v3.1.1 是一种 OASIS 标准，AWS IoT 设备网关支持大部分 MQTT 规范。[更多...](http://www.infoq.com/cn/news/2014/12/mqtt-ibm-iot)
+	* [emqttd-开源MQTT消息服务器](http://emqttd-docs-zh-cn.readthedocs.org/zh_CN/1.0/getstarted.html)：采用Erlang语言开发的开源MQTT消息服务器。		
 
 ### 创客社区
 * [@SeeedStudio](http://weibo.com/seeedstudio)
@@ -190,10 +197,14 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 * [360](http://home.360.cn/)
 	* [开发合作者平台](http://open.home.360.cn/)
 	* [在线零售](http://www.qikoo.com/)
+* 百度
+	* [物联网服务 IoT 指南](https://bce.baidu.com/doc/IOT/Quickstart.html)
 * [庆科](http://mxchip.com/)
 	* [MiCO](http://mico.io/)：“MiCO是一款基于32位微控制器（MCU）、满足IoT应用特点的物联网操作系统。” 
 	* [FogCloud](http://www.fogcloud.io/)：“FogCloud为开发者提供便捷的智能硬件接入服务，真正实现敏捷开发，快速迭代。”
 * [heimcontrol.js](https://github.com/ni-c/heimcontrol.js)：家庭自动化开源软件。基于 Node.js、MongoDB、HTML5、Websockets，运行于 Raspberry Pi、Arduino
+* [openHAB](https://github.com/openhab/openhab)：家居自动化总线。
+	* [打造基于OpenHAB和Arduino的智能家居](http://www.instructables.com/id/Uber-Home-Automation-w-Arduino-Pi/)：“它可以实现基于传感器数据的邮件提醒、Dashboard显示数据、声音报警、控制设备，如Sonos扬声器、Phillips电灯、WeMo灯等等。”	
 
 #### 1. 集成商
 * [Nest](https://nest.com/)
@@ -347,6 +358,8 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 	* [torch](http://torch.ch/)：“一个支持大量机器学习算法的科学计算框架。”
 * 语音识别
 	* [Nuance Mix](https://developer.nuance.com/public/index.php?task=mix)：相关[中文介绍](http://www.infoq.com/cn/news/2015/12/Nuance-Mix) 
+* 视觉识别
+	* [ImageNet](http://image-net.org/)：[如何让冰冷的机器读懂照片背后的故事？](http://www.ifanr.com/648667)
 	
 ### 相关产品
 * Android 衍生 
@@ -361,12 +374,14 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 	 
 ### 行业动态
 * [InfoQ 物联网技术周报](http://www.infoq.com/cn/adf)
+* [2016年物联网版图介绍](http://mattturck.com/2016/03/28/2016-iot-landscape/)
 * [编程要从娃娃做起，于是 BBC 要给 100 万名儿童免费提供给微型电脑](http://www.ifanr.com/538427)
 * [Zero UI：当界面摆脱了屏幕的束缚](http://www.ifanr.com/537092)
 * [RealSense（实感）技术，英特尔想做什么？](http://www.leiphone.com/news/201507/AgQzzehYtoqbWZO3.html)
 * [Google 正在开发物联网系统 Brillo](http://www.ifanr.com/523481)
 * [富士康布局传感器](http://36kr.com/p/533169.html)
 * [腾讯人脸识别](http://www.leiphone.com/news/201505/ViZ5mGak3mjd28v2.html)
+* [空气充电：硬币大小、无需电源的计算机](http://www.leiphone.com/news/201604/1fQ6qObg83uvpAN0.html)
 * [9 美元的电脑到底长成什么样？](http://www.ifanr.com/519571)
 * [DIY 高性能树莓派OpenWrt无线路由器](http://www.shuyz.com/install-openwrt-on-raspberry-as-a-wireless-router.html)
 * [MicroPython：针对微控制器的Python](http://www.iteye.com/news/30549)
