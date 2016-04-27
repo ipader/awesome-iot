@@ -19,3 +19,5 @@
 * [ImageNet](http://image-net.org/)：[如何让冰冷的机器读懂照片背后的故事？](http://www.ifanr.com/648667)
 * [MGTT：轻量级的发布/订阅协议，旨在最大限度地降低网络带宽和设备资源要求](http://mqtt.org/)
 * [空气充电：硬币大小、无需电源的计算机](http://www.leiphone.com/news/201604/1fQ6qObg83uvpAN0.html)
+* [零零无限：为什么一款飞行摄像头需要80名工程师？](http://www.leiphone.com/news/201604/y26zWXwB6d4Fgz3C.html) 
+

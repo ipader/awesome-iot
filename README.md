@@ -285,7 +285,9 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 > 无人机极具想象空间，也是蠢蠢欲动的梦想家们向往的领域。当前最大的应用领域大概是摄像机，这也是能相对清楚看到其未来发展的消费领域；还有自然是快递领域，可惜涉及空间使用权限及规则的制定，其大规模应用或许还有较长的路要走。
 
 * [大疆无人机](http://www.dji.com/cn)：国产最牛无人机
-	* [航拍还不够，大疆想把无人机与虚拟现实结合起来](http://www.ifanr.com/531698) 
+	* [航拍还不够，大疆想把无人机与虚拟现实结合起来](http://www.ifanr.com/531698)
+* [Hover Camera](http://gethover.com/) 
+	* [零零无限：为什么一款飞行摄像头需要80名工程师？](http://www.leiphone.com/news/201604/y26zWXwB6d4Fgz3C.html) 
 * [Lily Camera](https://www.lily.camera)：“傻瓜式”自拍无人机。通过GPS返回。
 	* [Lily 无人机的出现，或许最先撼动的是 GoPro 的地位](http://36kr.com/p/532831.html)
 * [Sprite](http://www.ascentaerosystems.com/sprite/)：“蜻蜓式”驴友无人机。通过可佩戴的追踪器返回
