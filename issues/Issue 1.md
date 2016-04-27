@@ -3,13 +3,13 @@
 ### 开发平台
 * Arduino
 	* [MOVI：语音控制和语音合成的扩展板](https://www.kickstarter.com/projects/310865303/movi-a-standalone-speech-recognizer-shield-for-ard)
-	* [DIY-Thermocam：基于FLIR Lepton热阵列传感器的开源的热成像摄像机](http://www.diy-thermocam.net/)
+	* [DIY-Thermocam：基于 FLIR Lepton 热阵列传感器的开源的热成像摄像机](http://www.diy-thermocam.net/)
 * Raspberry Pi
 	* [IoT HAT for Raspberry Pi：为 Pi Zero(或早期版本) 提供 Wifi 和蓝牙通讯能力扩展版](https://www.kickstarter.com/projects/1991736672/iot-hat-for-raspberry-pi-a-must-have-for-pi-zero)
-	* [rpi-gpio.js：用Nodejs 控制 Raspberry Pi GPIO 引脚库](https://github.com/JamesBarwell/rpi-gpio.js)
+	* [rpi-gpio.js：用 Nodejs 控制 Raspberry Pi GPIO 引脚库](https://github.com/JamesBarwell/rpi-gpio.js)
 * [openHAB：家居自动化总线](https://github.com/openhab/openhab)
-* [cylon-intel-iot：是一个面向Intel Edison和Intel Galileo开发板的Clyon.js的适配器](https://github.com/hybridgroup/cylon-intel-iot)
-* [emqttd-开源MQTT消息服务器：采用Erlang语言开发的开源MQTT消息服务器](http://emqttd-docs-zh-cn.readthedocs.org/zh_CN/1.0/getstarted.html)
+* [cylon-intel-iot：是一个面向 Intel Edison 和 Intel Galileo 开发板的 Clyon.js 的适配器](https://github.com/hybridgroup/cylon-intel-iot)
+* [emqttd-开源MQTT消息服务器：采用 Erlang 语言开发的开源 MQTT 消息服务器](http://emqttd-docs-zh-cn.readthedocs.org/zh_CN/1.0/getstarted.html)
 * [Ruff：JavaScript 开发硬件](https://ruff.io/zh-cn/)
 
 
