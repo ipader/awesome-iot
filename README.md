@@ -184,6 +184,7 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 
 ### 智能家居
 #### 1. 平台商
+* [Home Assistant](https://www.home-assistant.io)
 * 苹果
 	* [HomeKit](https://developer.apple.com/homekit/)
 	* [在线零售](http://store.apple.com/cn/accessories/all-accessories/connected-home)
@@ -316,6 +317,7 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 		* [Eclipse SCADA](https://eclipse.org/eclipsescada/)
 		* [hashmapinc/scada-iot](https://github.com/hashmapinc/scada-iot)
 		* [openSCADA 1.0 发布](http://www.oschina.net/news/38716/openscada-1-0)
+		* [pyscada](http://pyscada.readthedocs.io/en/dev-0.7.x/)
 	* 商用
 		* [Ignition](https://inductiveautomation.com/scada-software/)
 			* [WebHMI/SCADA & MES系统软件介绍 2014](http://wenku.baidu.com/view/48917d775727a5e9846a6120.html)
@@ -337,6 +339,8 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 			* [基于 HTML5 的 Web SCADA 工控移动应用](http://segmentfault.com/a/1190000004215173) 
 * [OPC UA](https://opcfoundation.org/about/opc-technologies/opc-ua/)
 	* [Open OPC UA](http://www.openopcua.org/)
+		* [python-opcua](https://github.com/FreeOpcUa/python-opcua) 
+		* [node-opcua](http://node-opcua.github.io)
 	* [开源 OPC UA 列表](https://github.com/acplt/open62541/wiki/List-of-Open-Source-OPC-UA-Implementations)
 	* [NI - OPC Server](http://sine.ni.com/nips/cds/view/p/lang/zhs/nid/209059)
 	* [OPC-UA进入嵌入式新阶段](http://article.cechina.cn/15/0324/04/20150324041119.htm)
