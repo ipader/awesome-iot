@@ -119,6 +119,7 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 * [Macchina.io](http://macchina.io/)：运行于Raspberry Pi, Beaglebone 或者 RED brick 等基于 Linux 系统的开发板。编程环境：Javascript 或 C++
 * [GeoThings](http://geothings.io/)：野外作业 Arduino 开发板。配备 GPS、Mobile、SD、太阳能，云支持。
 * [Ruff](https://ruff.io/zh-cn/)：JavaScript 开发硬件 By [@Roy厉](http://weibo.com/seabus)
+* [ROS 机器人开源开发平台](http://www.ros.org)
 
 ### 编程环境
 * [NodeJs](http://nodejs.org)
@@ -169,6 +170,7 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 * [phodal/awesome-iot](https://github.com/phodal/awesome-iot)：这份物联网学习参考大全太给力。从物联网协议、嵌入式系统、相关开源库、相关书籍、博客、学习笔记、标准应有尽有。对于新入行者，来一弹这个也是很受用的。作者：[@Phodal](http://weibo.com/phodal)
 
 ### 硬件零售
+* [微雪零售](https://dblsm.tmall.com/?spm=a1z10.1-b.1997427721.d4918089.3f803eb6mYccqD)
 * [SparkFun](https://www.sparkfun.com/)
   * [淘宝代理：奥松机器人](http://robotbase.taobao.com/)
 * [seeedstudio](http://www.seeedstudio.com/)
@@ -180,7 +182,7 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
   * [商城](http://www.dfrobot.com.cn/index.php)
 * [Microduino](https://www.microduino.cc/)：Arduino 的兼容开发板（小又可堆叠）
   * [淘宝](http://microduino.taobao.com/index.htm)
-  * [可堆叠的创意 开源硬件 Microduino 开发团队专访](http://www.csdn.net/article/1970-01-01/2816170)
+  * [可堆叠的创意 开源硬件 Microduino 开发团队专访](http://www.csdn.net/article/1970-01-01/2816170)
 
 ### 智能家居
 #### 1. 平台商
