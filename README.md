@@ -96,6 +96,7 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 		* [收购智能家居平台SmartThings，三星的“物联网”也来了](http://www.pingwest.com/weibo-2014-q2/)
 * 腾讯
 	* [腾讯物联网开放平台](http://iot.open.qq.com/)
+* [阿里云IoT](https://iot.aliyun.com)
 * [LABView](http://www.ni.com/labview/zhs/)
 	* [物联网离不开LABView嵌入式开发](http://home.eeworld.com.cn/my/space-uid-431262-blogid-74658.html) 
 * [Sensoro](http://www.sensoro.com/zh/iot)：基于 Arduino 的微信硬件开发、体验板。
@@ -200,6 +201,8 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 	* [在线零售](http://list.mi.com/26)
 	* 媒体报道
 		* [关于智能家居平台，小米回答了这 5 个问题](http://www.ifanr.com/545101)
+* 阿里云
+	* [生活物联网平台2.0](https://iot.aliyun.com/products/livinglink)
 * [360](http://home.360.cn/)
 	* [开发合作者平台](http://open.home.360.cn/)
 	* [在线零售](http://www.qikoo.com/)
@@ -212,13 +215,13 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
 * [openHAB](https://github.com/openhab/openhab)：家居自动化总线。
 	* [打造基于OpenHAB和Arduino的智能家居](http://www.instructables.com/id/Uber-Home-Automation-w-Arduino-Pi/)：“它可以实现基于传感器数据的邮件提醒、Dashboard显示数据、声音报警、控制设备，如Sonos扬声器、Phillips电灯、WeMo灯等等。”	
 
-#### 1. 集成商
+#### 2. 集成商
 * [Nest](https://nest.com/)
 * [海尔](http://www.haier.com/cn/business/Uhome/)
 * [中兴](http://www.ztehome.com.cn/)
 * [broadlink](http://www.broadlink.com.cn/)
 
-#### 2. 智能摄像
+#### 3. 智能摄像
 >智能摄像目前是智能家居领域进驻厂商最多的，竟争也最为白热化（定价迥异）。目标用户通常是亲情关怀及室内、外监控（把玩）。
 
   * [海康威视 － 荧石 C6 云台摄像机](http://www.ys7.com/product-130.html)
@@ -229,7 +232,7 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
   * [爱耳目智能摄像机](http://www.iermu.com/)
   * [Nest 推出了一个强大的智能安全摄像头，但是大部分人可能只买得起它的“国产”版](http://www.pingwest.com/what-is-the-next-big-thing-of-nest/)
 
-#### <a id="desk"></a>3. 智能桌
+#### <a id="desk"></a>4. 智能桌
 >带来惬意学习的环境的居家环境是书房，直接提供舒适学习体验的则是书桌。当前的智能办公/书桌已经达到了什么样功能。感兴趣的同学看看以下产品。
 
 * [Stir M1](http://www.stirworks.com/stir-kinetic-desk-m1/)
@@ -259,16 +262,16 @@ Brillo 基于 Android 开发，它是一个物联网的底层系统，属于硬�
   * [智能会议桌：捕捉谈话人员声音告别会议记录]( http://tech.sina.com.cn/q/tech/2015-05-14/doc-icpkqeaz4162345.shtml)
   * [这把办公椅能自动归位](http://www.ifanr.com/620289)
 
-#### 4. 智能锁
+#### 5. 智能锁
   * [Noki：kickstarter](https://www.kickstarter.com/projects/1227497591/noki-the-smart-doorlock-for-europe)
   * [Noki：你还在担心门没锁？](http://www.leiphone.com/news/201505/VjV2wiuDFrGJxcIe.html)
   
-#### 5. 智能开关
+#### 6. 智能开关
   * [Gecko Switch](http://www.geckoswitch.com/)
     * [kickstarter](https://www.kickstarter.com/projects/121630918/gecko-switch-your-movable-light-switch)
     * [丧心病狂？一个开关想颠覆整个智能家居](http://www.leiphone.com/news/201507/mj7uHI8YmNvq2HTG.html)
   
-#### 6. 室内定位
+#### 7. 室内定位
   *	[室内定位技术的前世今生](http://36kr.com/p/204953.html)
   * [室内定位的前景如何，国内是否有与之相关的创业公司？](http://www.zhihu.com/question/20485136)
   * [iBeacon定位与Wi-Fi定位相比，在准确度、建设成本、应用开发容易程度上有什么差异？iBeacon在国内有无案例？](http://www.zhihu.com/question/24092917)
