@@ -6,7 +6,7 @@
 
 平台商 | 开发板 | 操作系统 | 开发工具 | 常用语言 | 通讯协议 | 文档 |备注
 ------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-[Auduino](http://www.arduino.cc/)|[Arduino](http://www.arduino.cc/en/Main/Products)|RTOS|[Auduino IDE](http://www.arduino.cc/en/Main/Software/)|C/C++|[Firmata](http://www.arduino.cc/en/reference/firmata)|[入门](http://www.arduino.cc/en/Guide/HomePage)|最流行的开源开发板
+[Arduino](http://www.arduino.cc/)|[Arduino](http://www.arduino.cc/en/Main/Products)|RTOS|[Auduino IDE](http://www.arduino.cc/en/Main/Software/)|C/C++|[Firmata](http://www.arduino.cc/en/reference/firmata)|[入门](http://www.arduino.cc/en/Guide/HomePage)|最流行的开源开发板
 [Raspberry Pi](https://www.raspberrypi.org/)|[Raspberry Pi](https://www.raspberrypi.org/products/)|[Raspbian](https://www.raspbian.org/)|[Top 8 IDEs](https://blog.idrsolutions.com/2014/12/top-8-ides-programmers-coders-beginners-raspberry-pi/)|不限|TCP/IP,Firmata|[入门](https://www.raspberrypi.org/resources/learn/)|最火热的 Linux 开发板
 [迅龙软件](http://www.xunlong.tv/aboutus.html)|[Orange Pi](http://www.orangepi.org)|Android4.4、Ubuntu、Debian，兼容树莓派|[Top 8 IDEs](https://blog.idrsolutions.com/2014/12/top-8-ides-programmers-coders-beginners-raspberry-pi/)|不限|TCP/IP,Firmata|[入门](http://www.orangepi.cn/quickstartcn/)|最便宜的 ARM 开发板
 [ARM mbed](https://mbed.org/)|[ARM mbed](https://developer.mbed.org/platforms/)|[mbed RTOS](https://developer.mbed.org/handbook/RTOS)|[mbed Compiler](https://developer.mbed.org/handbook/mbed-Compiler)|C/C++|[TCP/IP](https://developer.mbed.org/handbook/TCP-IP-protocols-and-APIs)|[入门](http://mbed.smeshlink.com/guide)|ARM 低功耗物联网平台
